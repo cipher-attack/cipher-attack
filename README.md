@@ -19,9 +19,9 @@
   <img src="https://img.shields.io/badge/ROLE-RED_TEAM_OPERATOR-000000?style=for-the-badge&labelColor=000000&color=FF0000" alt="Red Team" />
 </p>
 
-<!-- REPOSITORY TROPHIES -->
+<!-- REPOSITORY TROPHIES: RE-PATCHED LINK -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cipher-attack&theme=radical&no-frame=true&column=3&margin-w=15&margin-h=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=cipher-attack&theme=radical&no-frame=true&margin-w=15&margin-h=15&cache=1" alt="Trophies" />
 </p>
 
 </div>
@@ -43,7 +43,7 @@ I am a **Mobile-Command Unit**. While the industry tethers itself to legacy hard
 ### 👁️ PROJECT: OVERWATCH (Private AI)
 
 **Encapsulated Intelligence Environment.**
-Orchestrating autonomous **heuristic-driven logic** within air-gapped **neural-inference** environments. This system is purpose-built for multi-vector pattern recognition and automated vulnerability discovery—designed to bypass cognitive limitations and accelerate intelligence gathering.
+Orchestrating autonomous **heuristic-driven logic** within air-gapped **neural-inference** environments. This system is purpose-built for multi-vector pattern recognition and automated vulnerability discovery.
 
 ---
 

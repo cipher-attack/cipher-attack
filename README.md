@@ -43,7 +43,7 @@ I am a **Mobile-Command Unit**. While the industry tethers itself to legacy hard
 ### 👁️ PROJECT: OVERWATCH (Private AI)
 
 **Encapsulated Intelligence Environment.**
-Orchestrating autonomous **heuristic-driven logic** within air-gapped **neural-inference** environments. This system is purpose-built for multi-vector pattern recognition and automated vulnerability discovery—designed to bypass cognitive limitations and accelerate intelligence gathering in unrestricted environments.
+Orchestrating autonomous **heuristic-driven logic** within air-gapped **neural-inference** environments. This system is purpose-built for multi-vector pattern recognition and automated vulnerability discovery—designed to bypass cognitive limitations and accelerate intelligence gathering.
 
 ---
 

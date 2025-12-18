@@ -21,7 +21,7 @@
 
 <!-- REPOSITORY TROPHIES: RE-PATCHED LINK -->
 <p align="center">
-  <img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgdmlld0JveD0iMCAwIDEwMCAxMDAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTSA3NSAyNSBMIDM1IDI1IEwgMTUgNTAgTCAzNSA3NSBMIDc1IDc1IiBzdHJva2U9IiMxMGI5ODEiIHN0cm9rZS13aWR0aD0iNiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+PGNpcmNsZSBjeD0iNDAiIGN5PSI1MCIgcj0iMTAiIHN0cm9rZT0iIzEwYjk4MSIgc3Ryb2tlLXdpZHRoPSI2Ii8+PHBhdGggZD0iTSA1MCA1MCBMIDg1IDUwIiBzdHJva2U9IiMxMGI5ODEiIHN0cm9rZS13aWR0aD0iNiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+PHBhdGggZD0iTSA2OCA1MCBMIDY4IDYyIiBzdHJva2U9IiMxMGI5ODEiIHN0cm9rZS13aWR0aD0iNiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+PHBhdGggZD0iTSA3OCA1MCBMIDc4IDU4IiBzdHJva2U9IiMxMGI5ODEiIHN0cm9rZS13aWR0aD0iNiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+PC9zdmc+" alt="Cipher Key" />
+  <img src="./key.svg" alt="Cipher Key" width="100" />
 </p>
 
 </div>
@@ -119,10 +119,10 @@ Orchestrating autonomous **heuristic-driven logic** within air-gapped **neural-i
 
 <br /><br />
 
-`--------------------------------------------------------------------------------`
+--------------------------------------------------------------------------------
 
 **"Deciphering the future before it happens.."**
 
-`--------------------------------------------------------------------------------`
+--------------------------------------------------------------------------------
 
 </div>

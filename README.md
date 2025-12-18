@@ -121,7 +121,7 @@ Orchestrating autonomous **heuristic-driven logic** within air-gapped **neural-i
 
 `--------------------------------------------------------------------------------`
 
-**"Expecting us? We are already here."**
+**"Deciphering the future before it happens.."**
 
 `--------------------------------------------------------------------------------`
 

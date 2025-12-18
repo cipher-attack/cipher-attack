@@ -1,16 +1,118 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**cipher-attack/cipher-attack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- HEADER SECTION: TERMINAL TYPING -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=CIPHER+DETECTED...;SYSTEM+OVERRIDE...;WELCOME+TO+THE+VOID." alt="CIPHER" />
 
-Here are some ideas to get you started:
+### `[ Cipher in the Cyber World ]`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<!-- BADGE ROW -->
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-000000?style=for-the-badge&labelColor=000000&color=FF0000" alt="Operational" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/CLEARANCE-LEVEL_7-000000?style=for-the-badge&labelColor=000000&color=FF0000" alt="Level 7" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/ROLE-RED_TEAM_OPERATOR-000000?style=for-the-badge&labelColor=000000&color=FF0000" alt="Red Team" />
+</p>
+
+<!-- REPOSITORY TROPHIES (MOBILE OPTIMIZED) -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=cipher-attack&theme=radical&no-frame=true&column=3&margin-w=15&margin-h=15" alt="Trophies" />
+</p>
+
+</div>
+
+---
+
+### ⚡ SYSTEM ARCHITECTURE
+
+> **"I don't sit at a desk; I deploy logic from the void."**
+
+I am a **Mobile-Command Unit**. While the industry tethers itself to legacy hardware, I leverage AI-augmented workflows to architect, audit, and deploy secure solutions entirely from mobile interfaces. 
+
+*   **IDENTITY:** 12th Grade Student // Ethical Hacker // Prompt Engineer.
+*   **STRATEGY:** High-level abstraction followed by granular AI-assisted refactoring.
+*   **OBJECTIVE:** Master Offensive Security and LLM Behavioral Analysis.
+
+---
+
+### 👁️ PROJECT: OVERWATCH (Private AI)
+
+**Encapsulated Intelligence Environment.**
+A self-hosted, air-gapped neural-inference environment purpose-built for heuristic analysis, advanced security auditing, and cross-vector pattern recognition. This is the auxiliary core behind every operation—engineered to bypass cognitive limitations and accelerate multi-threaded intelligence gathering.
+
+---
+
+### 🛠️ TECH STACK [ MOBILE_OPTIMIZED ]
+
+<div align="center">
+
+**[ OFFENSIVE SECURITY ]**
+<br />
+<img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kali-linux&logoColor=FF0000" alt="Kali" />
+&nbsp;
+<img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=FF0000" alt="Metasploit" />
+&nbsp;
+<img src="https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=FF0000" alt="Burp" />
+
+<br /><br />
+
+**[ AI / LLM OPS ]**
+<br />
+<img src="https://img.shields.io/badge/Prompt_Engineering-000000?style=for-the-badge&logo=openai&logoColor=FF0000" alt="Prompt" />
+&nbsp;
+<img src="https://img.shields.io/badge/Model_Tuning-000000?style=for-the-badge&logo=pytorch&logoColor=FF0000" alt="Tuning" />
+&nbsp;
+<img src="https://img.shields.io/badge/Neural_Logic-000000?style=for-the-badge&logo=deepmind&logoColor=FF0000" alt="Neural" />
+
+<br /><br />
+
+**[ CORE LANGUAGES ]**
+<br />
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FF0000" alt="Python" />
+&nbsp;
+<img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=FF0000" alt="Bash" />
+&nbsp;
+<img src="https://img.shields.io/badge/Linux_Kernel-000000?style=for-the-badge&logo=linux&logoColor=FF0000" alt="Linux" />
+
+</div>
+
+---
+
+### 📊 DATA STREAM [ ANALYTICS ]
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=cipher-attack&show_icons=true&bg_color=000000&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&border_color=333333&hide_border=false" alt="GitHub Stats" height="170px" />
+<br /><br />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cipher-attack&layout=compact&bg_color=000000&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&border_color=333333&hide_border=false" alt="Top Languages" height="170px" />
+
+</div>
+
+---
+
+### 📡 SIGNAL: [ ESTABLISH_CONNECTION ]
+
+<div align="center">
+
+<a href="https://x.com/Cipher_attacks"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=FF0000" alt="X" /></a>
+<a href="https://www.youtube.com/@cipher-attack"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="YouTube" /></a>
+<a href="https://et.linkedin.com/in/cipher-attack-93582433"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=linkedin&logoColor=FF0000" alt="LinkedIn" /></a>
+<a href="https://pin.it/3R6Nz"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=pinterest&logoColor=FF0000" alt="Pinterest" /></a>
+<a href="https://github.com/cipher-attack"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=github&logoColor=FF0000" alt="GitHub" /></a>
+
+<br /><br />
+
+<!-- SNAKE ANIMATION -->
+<img src="https://raw.githubusercontent.com/cipher-attack/cipher-attack/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+
+<br />
+
+`--------------------------------------------------------------------------------`
+
+**"Expecting us? We are already here."**
+
+`--------------------------------------------------------------------------------`
+
+</div>

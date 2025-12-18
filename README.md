@@ -5,18 +5,21 @@
 
 ### `[ Cipher in the Cyber World ]`
 
+<!-- VISITOR COUNTER: MASKED AS HACKING LOGS -->
+<img src="https://komarev.com/ghpvc/?username=cipher-attack&label=BREACH_LOGS&color=red&style=flat-square" alt="Breach Logs" />
+
 ---
 
-<!-- BADGE ROW -->
+<!-- BADGE ROW: RED TEAM STATUS -->
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-000000?style=for-the-badge&labelColor=000000&color=FF0000" alt="Operational" />
-  &nbsp;
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/CLEARANCE-LEVEL_7-000000?style=for-the-badge&labelColor=000000&color=FF0000" alt="Level 7" />
-  &nbsp;
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/ROLE-RED_TEAM_OPERATOR-000000?style=for-the-badge&labelColor=000000&color=FF0000" alt="Red Team" />
 </p>
 
-<!-- REPOSITORY TROPHIES (MOBILE OPTIMIZED) -->
+<!-- REPOSITORY TROPHIES -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=cipher-attack&theme=radical&no-frame=true&column=3&margin-w=15&margin-h=15" alt="Trophies" />
 </p>
@@ -40,11 +43,11 @@ I am a **Mobile-Command Unit**. While the industry tethers itself to legacy hard
 ### 👁️ PROJECT: OVERWATCH (Private AI)
 
 **Encapsulated Intelligence Environment.**
-A self-hosted, air-gapped neural-inference environment purpose-built for heuristic analysis, advanced security auditing, and cross-vector pattern recognition. This is the auxiliary core behind every operation—engineered to bypass cognitive limitations and accelerate multi-threaded intelligence gathering.
+Orchestrating autonomous **heuristic-driven logic** within air-gapped **neural-inference** environments. This system is purpose-built for multi-vector pattern recognition and automated vulnerability discovery—designed to bypass cognitive limitations and accelerate intelligence gathering in unrestricted environments.
 
 ---
 
-### 🛠️ TECH STACK [ MOBILE_OPTIMIZED ]
+### 🛠️ INFILTRATION TOOLS [ MOBILE_OPTIMIZED ]
 
 <div align="center">
 
@@ -58,7 +61,7 @@ A self-hosted, air-gapped neural-inference environment purpose-built for heurist
 
 <br /><br />
 
-**[ AI / LLM OPS ]**
+**[ NEURAL OPS ]**
 <br />
 <img src="https://img.shields.io/badge/Prompt_Engineering-000000?style=for-the-badge&logo=openai&logoColor=FF0000" alt="Prompt" />
 &nbsp;
@@ -68,7 +71,7 @@ A self-hosted, air-gapped neural-inference environment purpose-built for heurist
 
 <br /><br />
 
-**[ CORE LANGUAGES ]**
+**[ CORE SCRIPTS ]**
 <br />
 <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FF0000" alt="Python" />
 &nbsp;
@@ -92,22 +95,29 @@ A self-hosted, air-gapped neural-inference environment purpose-built for heurist
 
 ---
 
+### 🐍 NEURAL ACTIVITY GRID
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/cipher-attack/cipher-attack/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</div>
+
+---
+
 ### 📡 SIGNAL: [ ESTABLISH_CONNECTION ]
 
 <div align="center">
 
 <a href="https://x.com/Cipher_attacks"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=FF0000" alt="X" /></a>
+&nbsp;
 <a href="https://www.youtube.com/@cipher-attack"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="YouTube" /></a>
+&nbsp;
 <a href="https://et.linkedin.com/in/cipher-attack-93582433"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=linkedin&logoColor=FF0000" alt="LinkedIn" /></a>
+&nbsp;
 <a href="https://pin.it/3R6Nz"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=pinterest&logoColor=FF0000" alt="Pinterest" /></a>
+&nbsp;
 <a href="https://github.com/cipher-attack"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=github&logoColor=FF0000" alt="GitHub" /></a>
 
 <br /><br />
-
-<!-- SNAKE ANIMATION -->
-<img src="https://raw.githubusercontent.com/cipher-attack/cipher-attack/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-
-<br />
 
 `--------------------------------------------------------------------------------`
 

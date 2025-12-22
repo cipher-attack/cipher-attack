@@ -25,7 +25,7 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?color_snake=#FF0000&color_dots=#0d1117,#330000,#660000,#990000,#cc0000,#ff0000&speed=10
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#FF0000&color_dots=#0d1117,#330000,#660000,#990000,#cc0000,#ff0000&speed=10&snakes=#FF0000
             
       - name: Verify Output
         run: |
@@ -41,4 +41,3 @@ jobs:
           commit_message: "sys: contribution-grid update [skip ci]"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-

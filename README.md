@@ -24,18 +24,18 @@
 
 ### About Me
 
-I am a 12th-grade student passionate about Offensive Security and AI. Unlike typical setups, I handle most of my development and auditing workflows directly from mobile interfaces. My goal is to integrate LLMs into security testing to automate vulnerability discovery.
+I'm a 12th-grade student diving deep into Offensive Security and AI. Since I don't use a standard PC setup, I do almost all my hacking and coding on my phone. It’s a challenge, but it forces me to be more creative with my tools. My goal is to use LLMs to help me find security bugs faster and automate the repetitive parts of testing.
 
 * **Current Focus:** Ethical Hacking & Prompt Engineering.
 * **Workflow:** Mobile-first approach using AI-assisted tools.
-* **Goal:** Mastering LLM behavior analysis and network security.
+* **Goal:** Trying to figure out how to trick LLMs (prompt injection) and getting better at network security.
 
 ---
 
 ### Project: Overwatch
 
 **Private AI Experiment**
-Currently working on a system designed to recognize patterns and potential vulnerabilities. It uses custom logic to run automated checks in an isolated environment. The aim is to create a lightweight, efficient tool for security analysis.
+I'm building a tool to help me spot security holes faster. It's still a work in progress, but I'm testing it in my own lab environment.
 
 ---
 

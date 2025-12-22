@@ -21,16 +21,16 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?color_snake=#FF0000&color_dots=#0d1117,#330000,#660000,#990000,#cc0000,#ff0000&speed=10
+            dist/snake.svg
+            dist/snake-dark.svg?color_snake=#FF0000&color_dots=#0d1117,#330000,#660000,#990000,#cc0000,#ff0000&speed=10&snakes=#FF0000
             
-      - name: push github-contribution-grid-snake.svg to the output branch
+      - name: push to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
           author: Cipher-Bot <bot@cipher-attack.com>
           committer: Cipher-Bot <bot@cipher-attack.com>
-          commit_message: "sys: update contribution snake [skip ci]"
+          commit_message: "sys: update snake assets [skip ci]"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

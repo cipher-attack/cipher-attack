@@ -88,7 +88,7 @@ I'm building a tool to help me spot security holes faster. It's still a work in 
 ### Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/cipher-attack/cipher-attack/output/github-contribution-grid-snake-dark.svg" alt="Snake" />
+  <img src="https://raw.githubusercontent.com/cipher-attack/cipher-attack/output/snake-dark.svg" alt="Snake" />
 
 </div>
 

@@ -1,33 +1,44 @@
-name: Generate Snake
+name: Generate Elite Red-Team Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # በየ 12 ሰዓቱ ይቃኛል
-  workflow_dispatch:
+    - cron: "0 */6 * * *" 
+  workflow_dispatch: 
   push:
     branches:
-    - main
+      - main
 
 jobs:
   generate:
     permissions:
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 3
     
     steps:
-      - name: generate-snake-game-from-github-contribution-grid
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Generate Snake Animation
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#FF0000&color_dots=#0d1117,#330000,#660000,#990000,#cc0000,#ff0000&speed=10
+            
+      - name: Verify Output
+        run: |
+          test -f dist/github-contribution-grid-snake-dark.svg
 
-      - name: push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Push to Output Branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
+          author: Cipher-Bot <bot@cipher-attack.com>
+          committer: Cipher-Bot <bot@cipher-attack.com>
+          commit_message: "sys: contribution-grid update [skip ci]"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+

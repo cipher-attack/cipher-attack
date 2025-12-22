@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Student+%2F%2F+Ethical+Hacker;Expliring+AI+%26+Cybersecurity;Red+Team+Operator" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Student+%2F%2F+Ethical+Hacker;Exploring+AI+%26+Cybersecurity;Red+Team+Operator" alt="Typing SVG" />
 
 ### Cipher
 
@@ -12,6 +12,10 @@
   <img src="https://img.shields.io/badge/STATUS-ACTIVE-000000?style=for-the-badge&labelColor=000000&color=FF0000" alt="Status" />
     
   <img src="https://img.shields.io/badge/FOCUS-RED_TEAM-000000?style=for-the-badge&labelColor=000000&color=FF0000" alt="Focus" />
+</p>
+
+<p align="center">
+  <img src="./key.svg" alt="Cipher Key" width="100" />
 </p>
 
 </div>

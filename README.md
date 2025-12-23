@@ -32,14 +32,14 @@ Security Researcher focusing on Offensive Operations and AI-driven exploitations
 
 ---
 
-###  Overwatch
+### Overwatch
 
 **Proprietary Threat Intel Engine.**
 A custom-built vulnerability scanner designed for speed and stealth. Currently deployed in a closed lab environment to simulate APT behaviors and automate attack vectors using LLMs.
 
 ---
 
-###  Arsenal
+### Arsenal
 
 <div align="center">
 
@@ -73,27 +73,23 @@ A custom-built vulnerability scanner designed for speed and stealth. Currently d
 
 ---
 
-###  Stats & Metrics
+### Stats & Metrics
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=cipher-attack&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="Trophy" />
-
-
-<br /><br />
-
-<img src="https://github-readme-stats.vercel.app/api?username=cipher-attack&show_icons=true&count_private=true&theme=dark&bg_color=000000&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&include_all_commits=true" alt="Stats" />
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cipher-attack&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FF0000&text_color=FFFFFF&langs_count=6" height="165" alt="Top Langs" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=cipher-attack&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=000000&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&include_all_commits=true" height="165" alt="Stats" />
 
 <br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=cipher-attack&theme=dark&hide_border=true&background=000000&ring=FF0000&fire=FF0000&currStreakNum=FF0000&sideNums=FFFFFF&currStreakLabel=FF0000&count_private=true" alt="Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=cipher-attack&theme=dark&hide_border=true&background=000000&ring=FF0000&fire=FF0000&currStreakNum=FF0000&sideNums=FFFFFF&currStreakLabel=FF0000&count_private=true" width="100%" alt="Streak" />
 
 </div>
 
 ---
 
-###  Commit Topology
+### Commit Topology
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=cipher-attack&theme=react-dark&bg_color=000000&color=FF0000&line=FF0000&point=FFFFFF&hide_border=true" width="100%" alt="Activity Graph" />

@@ -73,13 +73,15 @@ A custom-built vulnerability scanner designed for speed and stealth. Currently d
 
 ---
 
+---
+
 ### Stats & Metrics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cipher-attack&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FF0000&text_color=FFFFFF&langs_count=6" height="165" alt="Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api?username=cipher-attack&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=000000&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&include_all_commits=true&cache_buster=1" height="165" alt="Stats" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=cipher-attack&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=000000&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&include_all_commits=true" height="165" alt="Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cipher-attack&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FF0000&text_color=FFFFFF&langs_count=6&cache_buster=1" height="165" alt="Top Langs" />
 
 <br />
 

@@ -76,9 +76,15 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=cipher-attack&show_icons=true&bg_color=000000&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&border_color=333333&hide_border=false" alt="GitHub Stats" height="170px" />
-<br /><br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cipher-attack&layout=compact&bg_color=000000&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&border_color=333333&hide_border=false" alt="Top Languages" height="170px" />
+<a href="https://github.com/cipher-attack">
+  <img src="https://github-readme-stats.vercel.app/api?username=cipher-attack&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Cipher Stats" height="160" />
+</a>
+
+<br />
+
+<a href="https://github.com/cipher-attack">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cipher-attack&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="160" />
+</a>
 
 </div>
 
@@ -87,8 +93,9 @@
 ### // Activity Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/cipher-attack/cipher-attack/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://github.com/cipher-attack/cipher-attack/blob/output/github-contribution-grid-snake.svg?raw=true" alt="Snake Animation" width="100%" />
 </div>
+
 
 ---
 

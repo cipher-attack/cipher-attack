@@ -1,95 +1,118 @@
 <div align="center">
 
-<!-- Typing Effect - Humanized labels -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=I+break+things+to+fix+them;Ethical+Hacker+%7C+12th+Grade;Coding+entirely+on+mobile;Focusing+on+Red+Teaming" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Student+%2F%2F+Ethical+Hacker;Exploring+AI+%26+Cybersecurity;Red+Team+Operator" alt="Typing SVG" />
 
-### 💀 CIPHER 
+### Cipher
 
-<img src="https://komarev.com/ghpvc/?username=cipher-attack&label=Profile+Views&color=red&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=cipher-attack&label=Visitors&color=red&style=flat-square" alt="Visitor Count" />
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LIFE-LEARNING-000000?style=for-the-badge&color=FF0000" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/TARGET-RED_TEAM-000000?style=for-the-badge&color=FF0000" />
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-000000?style=for-the-badge&labelColor=000000&color=FF0000" alt="Status" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/FOCUS-RED_TEAM-000000?style=for-the-badge&labelColor=000000&color=FF0000" alt="Focus" />
+</p>
+
+<p align="center">
+  <img src="./key.svg" alt="Cipher Key" width="100" />
 </p>
 
 </div>
 
 ---
 
-### 📱 // The Reality
-I’m a 12th-grade student with a passion for **Offensive Security**. Unlike most, I don't have a high-end PC setup. I do 100% of my hacking and coding on my **phone**. 
+### // Who Am I?
 
-Why? Because a phone forces you to master the command line (Termux). If you can hack from a 6-inch screen, you can hack from anything. I’m currently focused on how AI can be used to find vulnerabilities before the bad guys do.
+12th-grade student obsessed with Offensive Security and AI. I don't run a fancy PC rig; I do my hacking and coding directly from my phone. It's a constraint, but it forces me to really understand the tools I'm using.
 
-*    **Working on:** "Overwatch" — A private AI project for automated recon.
-*    **Fun fact:** I spend more time in Termux than in actual apps.
-*    **Target:** mastering network security and advanced prompt injection.
-
----
-
-###  // The Toolbox (What I use)
-
-<div align="center">
-
-**[ Security ]**
-<br />
-<img src="https://img.shields.io/badge/Kali-FF0000?style=flat-square&logo=kali-linux&logoColor=white" />
-<img src="https://img.shields.io/badge/Metasploit-000000?style=flat-square&logo=metasploit&logoColor=red" />
-<img src="https://img.shields.io/badge/Burp_Suite-FF0000?style=flat-square&logo=burpsuite&logoColor=white" />
-<img src="https://img.shields.io/badge/Nmap-000000?style=flat-square&logo=nmap&logoColor=red" />
-
-<br />
-
-**[ Languages & Logic ]**
-<br />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
-<img src="https://img.shields.io/badge/AI_Prompts-FF0000?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white" />
-
-</div>
+* **Current Mission:** Automating recon and vulnerability scanning.
+* **Workflow:** Mobile-first + AI-assisted.
+* **Goal:** Mastering Prompt Injection and Network Security.
 
 ---
 
-###  // Progress Tracker
+### // Project: Overwatch
+
+**Private AI Experiment** Building a custom tool to detect security flaws faster than manual testing. Currently running in a local lab environment.
+
+---
+
+### // Arsenal
 
 <div align="center">
 
-<!-- Clean, Minimalist Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=cipher-attack&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=FF0000&icon_color=FF0000&bg_color=000000&text_color=ffffff" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cipher-attack&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FF0000&text_color=ffffff" height="165" />
-
+**Security Tools**
 <br />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=cipher-attack&theme=dark&hide_border=true&background=000000&stroke=FF0000&ring=FF0000&fire=FF0000&currStreakNum=ffffff" alt="Streak" />
-
-</div>
-
----
-
-###  // Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cipher-attack&theme=react-dark&bg_color=000000&color=FF0000&line=FF0000&point=ffffff&hide_border=true" width="100%" />
-</div>
-
----
-
-### 🔗 // Let's Talk
-
-<div align="center">
-
-<a href="https://x.com/Cipher_attacks"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="https://www.youtube.com/@cipher-attack"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-<a href="https://et.linkedin.com/in/cipher-attack-93582433"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/cipher-attack"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kali-linux&logoColor=FF0000" alt="Kali" />
+&nbsp;
+<img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=FF0000" alt="Metasploit" />
+&nbsp;
+<img src="https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=FF0000" alt="Burp" />
 
 <br /><br />
-"I don't wait for opportunities, I scan for them." 💀
+
+**AI & Logic**
 <br />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=80&section=footer" />
+<img src="https://img.shields.io/badge/Prompt_Engineering-000000?style=for-the-badge&logo=openai&logoColor=FF0000" alt="Prompt" />
+&nbsp;
+<img src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=FF0000" alt="PyTorch" />
+
+<br /><br />
+
+**Core Languages**
+<br />
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FF0000" alt="Python" />
+&nbsp;
+<img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=FF0000" alt="Bash" />
+&nbsp;
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FF0000" alt="Linux" />
+
+</div>
+
+---
+
+### // Stats
+
+<div align="center">
+
+<a href="https://github.com/cipher-attack">
+  <img src="https://github-readme-stats.vercel.app/api?username=cipher-attack&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Cipher Stats" height="160" />
+</a>
+
+<br />
+
+<a href="https://github.com/cipher-attack">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cipher-attack&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="160" />
+</a>
+
+</div>
+
+---
+
+### // Activity Graph
+
+<div align="center">
+  <img src="https://github.com/cipher-attack/cipher-attack/blob/output/github-contribution-grid-snake.svg?raw=true" alt="Snake Animation" width="100%" />
+</div>
+
+
+---
+
+### // Connect
+
+<div align="center">
+
+<a href="https://x.com/Cipher_attacks"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=FF0000" alt="X" /></a>
+&nbsp;
+<a href="https://www.youtube.com/@cipher-attack"><img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="YouTube" /></a>
+&nbsp;
+<a href="https://et.linkedin.com/in/cipher-attack-93582433"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF0000" alt="LinkedIn" /></a>
+&nbsp;
+<a href="https://github.com/cipher-attack"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF0000" alt="GitHub" /></a>
+
+<br /><br />
+
+**"Always learning, always breaking."**
 
 </div>

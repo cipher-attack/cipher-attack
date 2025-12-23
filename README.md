@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Student+%2F%2F+Ethical+Hacker;Exploring+AI+%26+Cybersecurity;Red+Team+Operator" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Red+Team+Operator;Exploit+Dev+%2F%2F+Security+Research;Mobile-First+Infrastructure" alt="Typing SVG" />
 
 ### Cipher
 
@@ -9,9 +9,9 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ACTIVE-000000?style=for-the-badge&labelColor=000000&color=FF0000" alt="Status" />
+  <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-000000?style=for-the-badge&labelColor=000000&color=FF0000" alt="Status" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/FOCUS-RED_TEAM-000000?style=for-the-badge&labelColor=000000&color=FF0000" alt="Focus" />
+  <img src="https://img.shields.io/badge/FOCUS-OFFSEC-000000?style=for-the-badge&labelColor=000000&color=FF0000" alt="Focus" />
 </p>
 
 <p align="center">
@@ -22,19 +22,20 @@
 
 ---
 
-### // Who Am I?
+### // root@cipher:~# whoami
 
-12th-grade student obsessed with Offensive Security and AI. I don't run a fancy PC rig; I do my hacking and coding directly from my phone. It's a constraint, but it forces me to really understand the tools I'm using.
+Security Researcher focusing on Offensive Operations and AI-driven exploitations. I specialize in maximizing impact within constrained environments—running full-scale red team ops directly from mobile terminals. Hardware limitations are just another puzzle to solve.
 
-* **Current Mission:** Automating recon and vulnerability scanning.
-* **Workflow:** Mobile-first + AI-assisted.
-* **Goal:** Mastering Prompt Injection and Network Security.
+* **Current Op:** Automating reconnaissance pipelines.
+* **Architecture:** Mobile-First / Termux / Cloud C2.
+* **Focus:** Prompt Injection vectors & Network infiltration.
 
 ---
 
 ### // Project: Overwatch
 
-**Private AI Experiment** Building a custom tool to detect security flaws faster than manual testing. Currently running in a local lab environment.
+**Proprietary Threat Intel Engine.**
+A custom-built vulnerability scanner designed for speed and stealth. Currently deployed in a closed lab environment to simulate APT behaviors and automate attack vectors using LLMs.
 
 ---
 
@@ -72,30 +73,36 @@
 
 ---
 
-### // Stats
+### // Stats & Metrics
 
 <div align="center">
 
-<a href="https://github.com/cipher-attack">
-  <img src="https://github-readme-stats.vercel.app/api?username=cipher-attack&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Cipher Stats" height="160" />
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=cipher-attack&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="cipher-attack" />
 </a>
 
-<br />
+<br /><br />
 
-<a href="https://github.com/cipher-attack">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cipher-attack&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="160" />
-</a>
+<table style="border: none;">
+<tr>
+<td valign="top">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=cipher-attack&theme=dark&hide_border=true&background=000000&ring=FF0000&fire=FF0000&currStreakNum=FF0000&sideNums=FFFFFF&currStreakLabel=FF0000" alt="Streak" />
+</td>
+<td valign="top">
+<img src="https://github-readme-stats.vercel.app/api?username=cipher-attack&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=000000&title_color=FF0000&icon_color=FF0000" alt="Stats" />
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-### // Activity Graph
+### // Commit Topology
 
 <div align="center">
-  <img src="https://github.com/cipher-attack/cipher-attack/blob/output/github-contribution-grid-snake.svg?raw=true" alt="Snake Animation" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cipher-attack&theme=react-dark&bg_color=000000&color=FF0000&line=FF0000&point=FFFFFF&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
-
 
 ---
 
@@ -113,6 +120,6 @@
 
 <br /><br />
 
-**"Always learning, always breaking."**
+**"Code is Law. Break it."**
 
 </div>

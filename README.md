@@ -32,7 +32,7 @@ Security Researcher focusing on Offensive Operations and AI-driven exploitations
 
 ---
 
-###  Project: Overwatch
+###  Overwatch
 
 **Proprietary Threat Intel Engine.**
 A custom-built vulnerability scanner designed for speed and stealth. Currently deployed in a closed lab environment to simulate APT behaviors and automate attack vectors using LLMs.
@@ -77,11 +77,13 @@ A custom-built vulnerability scanner designed for speed and stealth. Currently d
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=cipher-attack&theme=radical&no-frame=true&no-bg=true&margin-w=4&include_all_commits=true" alt="cipher-attack" />
+<img src="https://github-profile-trophy.vercel.app/?username=cipher-attack&theme=radical&no-frame=true&no-bg=true" alt="Trophies" />
+
+
 
 <br /><br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=cipher-attack&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=000000&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF" alt="Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=cipher-attack&show_icons=true&count_private=true&theme=dark&bg_color=000000&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&include_all_commits=true" alt="Stats" />
 
 
 <br />

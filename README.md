@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-ACTIVE-000000?style=for-the-badge&labelColor=000000&color=FF0000" alt="Status" />
-    
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/FOCUS-RED_TEAM-000000?style=for-the-badge&labelColor=000000&color=FF0000" alt="Focus" />
 </p>
 
@@ -22,33 +22,32 @@
 
 ---
 
-### About Me
+### // Who Am I?
 
-I'm a 12th-grade student diving deep into Offensive Security and AI. Since I don't use a standard PC setup, I do almost all my hacking and coding on my phone. It’s a challenge, but it forces me to be more creative with my tools. My goal is to use LLMs to help me find security bugs faster and automate the repetitive parts of testing.
+12th-grade student obsessed with Offensive Security and AI. I don't run a fancy PC rig; I do my hacking and coding directly from my phone. It's a constraint, but it forces me to really understand the tools I'm using.
 
-* **Current Focus:** Ethical Hacking & Prompt Engineering.
-* **Workflow:** Mobile-first approach using AI-assisted tools.
-* **Goal:** Trying to figure out how to trick LLMs (prompt injection) and getting better at network security.
-
----
-
-### Project: Overwatch
-
-**Private AI Experiment**
-I'm building a tool to help me spot security holes faster. It's still a work in progress, but I'm testing it in my own lab environment.
+* **Current Mission:** Automating recon and vulnerability scanning.
+* **Workflow:** Mobile-first + AI-assisted.
+* **Goal:** Mastering Prompt Injection and Network Security.
 
 ---
 
-### Tools & Tech Stack
+### // Project: Overwatch
+
+**Private AI Experiment** Building a custom tool to detect security flaws faster than manual testing. Currently running in a local lab environment.
+
+---
+
+### // Arsenal
 
 <div align="center">
 
 **Security Tools**
 <br />
 <img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kali-linux&logoColor=FF0000" alt="Kali" />
- 
+&nbsp;
 <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=FF0000" alt="Metasploit" />
- 
+&nbsp;
 <img src="https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=FF0000" alt="Burp" />
 
 <br /><br />
@@ -56,7 +55,7 @@ I'm building a tool to help me spot security holes faster. It's still a work in 
 **AI & Logic**
 <br />
 <img src="https://img.shields.io/badge/Prompt_Engineering-000000?style=for-the-badge&logo=openai&logoColor=FF0000" alt="Prompt" />
- 
+&nbsp;
 <img src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=FF0000" alt="PyTorch" />
 
 <br /><br />
@@ -64,16 +63,16 @@ I'm building a tool to help me spot security holes faster. It's still a work in 
 **Core Languages**
 <br />
 <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FF0000" alt="Python" />
- 
+&nbsp;
 <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=FF0000" alt="Bash" />
- 
+&nbsp;
 <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FF0000" alt="Linux" />
 
 </div>
 
 ---
 
-### GitHub Stats
+### // Stats
 
 <div align="center">
 
@@ -85,25 +84,24 @@ I'm building a tool to help me spot security holes faster. It's still a work in 
 
 ---
 
-### Contribution Graph
+### // Activity Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/cipher-attack/cipher-attack/output/snake-dark.svg" alt="Snake" />
-
+  <img src="https://raw.githubusercontent.com/cipher-attack/cipher-attack/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
 
 ---
 
-### Connect
+### // Connect
 
 <div align="center">
 
 <a href="https://x.com/Cipher_attacks"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=FF0000" alt="X" /></a>
- 
+&nbsp;
 <a href="https://www.youtube.com/@cipher-attack"><img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="YouTube" /></a>
- 
+&nbsp;
 <a href="https://et.linkedin.com/in/cipher-attack-93582433"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF0000" alt="LinkedIn" /></a>
- 
+&nbsp;
 <a href="https://github.com/cipher-attack"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF0000" alt="GitHub" /></a>
 
 <br /><br />

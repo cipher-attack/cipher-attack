@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="./key.svg" alt="Cipher Key" width="100" />
+  <img src="https://raw.githubusercontent.com/cipher-attack/cipher-attack/main/key.svg" alt="Cipher Key" width="100" />
 </p>
 
 </div>
@@ -76,15 +76,11 @@
 
 <div align="center">
 
-<a href="https://github.com/cipher-attack">
-  <img src="https://github-readme-stats.vercel.app/api?username=cipher-attack&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Cipher Stats" height="160" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=cipher-attack&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=FF0000&icon_color=FF0000&bg_color=000000" alt="Cipher Stats" height="160" />
 
 <br />
 
-<a href="https://github.com/cipher-attack">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cipher-attack&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="160" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cipher-attack&layout=compact&theme=dark&hide_border=true&title_color=FF0000&bg_color=000000" alt="Top Languages" height="160" />
 
 </div>
 
@@ -93,7 +89,7 @@
 ### // Activity Graph
 
 <div align="center">
-  <img src="https://github.com/cipher-attack/cipher-attack/blob/output/github-contribution-grid-snake.svg?raw=true" alt="Snake Animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/cipher-attack/cipher-attack/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
 </div>
 
 

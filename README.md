@@ -77,8 +77,7 @@ A custom-built vulnerability scanner designed for speed and stealth. Currently d
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=cipher-attack&theme=radical&no-frame=true&no-bg=true" alt="Trophies" />
-
+<img src="https://github-profile-trophy.vercel.app/?username=cipher-attack&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="Trophy" />
 
 
 <br /><br />

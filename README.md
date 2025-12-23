@@ -77,22 +77,15 @@ A custom-built vulnerability scanner designed for speed and stealth. Currently d
 
 <div align="center">
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=cipher-attack&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="cipher-attack" />
-</a>
+<img src="https://github-profile-trophy.vercel.app/?username=cipher-attack&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="cipher-attack" />
 
 <br /><br />
 
-<table style="border: none;">
-<tr>
-<td valign="top">
+<img src="https://github-readme-stats.vercel.app/api?username=cipher-attack&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF" alt="Stats" />
+
+<br />
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=cipher-attack&theme=dark&hide_border=true&background=000000&ring=FF0000&fire=FF0000&currStreakNum=FF0000&sideNums=FFFFFF&currStreakLabel=FF0000" alt="Streak" />
-</td>
-<td valign="top">
-<img src="https://github-readme-stats.vercel.app/api?username=cipher-attack&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=000000&title_color=FF0000&icon_color=FF0000" alt="Stats" />
-</td>
-</tr>
-</table>
 
 </div>
 
@@ -120,6 +113,6 @@ A custom-built vulnerability scanner designed for speed and stealth. Currently d
 
 <br /><br />
 
-**"Code is Law. Break it."**
+**"deciphering the future before it happens..."**
 
 </div>

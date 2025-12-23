@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Red+Team+Operator;Exploit+Dev+%2F%2F+Security+Research;Mobile-First+Infrastructure" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Red+Team+Operator;ETHICAL+Hacker+%2F%2F+Security+Research;Mobile-First+Infrastructure" alt="Typing SVG" />
 
 ### Cipher
 
@@ -32,14 +32,14 @@ Security Researcher focusing on Offensive Operations and AI-driven exploitations
 
 ---
 
-### // Project: Overwatch
+###  Project: Overwatch
 
 **Proprietary Threat Intel Engine.**
 A custom-built vulnerability scanner designed for speed and stealth. Currently deployed in a closed lab environment to simulate APT behaviors and automate attack vectors using LLMs.
 
 ---
 
-### // Arsenal
+###  Arsenal
 
 <div align="center">
 
@@ -73,7 +73,7 @@ A custom-built vulnerability scanner designed for speed and stealth. Currently d
 
 ---
 
-### // Stats & Metrics
+###  Stats & Metrics
 
 <div align="center">
 
@@ -91,7 +91,7 @@ A custom-built vulnerability scanner designed for speed and stealth. Currently d
 
 ---
 
-### // Commit Topology
+###  Commit Topology
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=cipher-attack&theme=react-dark&bg_color=000000&color=FF0000&line=FF0000&point=FFFFFF&hide_border=true" width="100%" alt="Activity Graph" />

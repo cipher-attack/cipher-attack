@@ -87,17 +87,17 @@ A custom-built vulnerability scanner designed for speed and stealth. Currently d
 
 <table width="100%" style="border: 1px solid #FF0000; border-collapse: collapse; background-color: #000000;">
   <tr>
-    <th align="center" style="border: 1px solid #FF0000; padding: 10px; color: #FF0000;">// AGGREGATE STATS</th>
-    <th align="center" style="border: 1px solid #FF0000; padding: 10px; color: #FF0000;">// REPO DYNAMICS</th>
+    <th align="center" style="border: 1px solid #FF0000; padding: 10px; color: #FF0000;">AGGREGATE STATS</th>
+    <th align="center" style="border: 1px solid #FF0000; padding: 10px; color: #FF0000;">REPO DYNAMICS</th>
   </tr>
   <tr>
     <td align="center" style="border: 1px solid #FF0000; padding: 10px;">
-      <img src="https://img.shields.io/github/stars/cipher-attack?style=flat-square&label=TOTAL%20STARS&color=red" /><br />
-      <img src="https://img.shields.io/github/followers/cipher-attack?style=flat-square&label=FOLLOWERS&color=red" />
+      <img src="https://img.shields.io/github/stars/cipher-attack?style=flat-square&label=TOTAL%20STARS&color=green" /><br />
+      <img src="https://img.shields.io/github/followers/cipher-attack?style=flat-square&label=FOLLOWERS&color=green" />
     </td>
     <td align="center" style="border: 1px solid #FF0000; padding: 10px;">
-      <img src="https://img.shields.io/github/directory-file-count/cipher-attack/Camphish-pro?style=flat-square&label=TOTAL%20REPOS&color=red" /><br />
-      <img src="https://img.shields.io/github/commit-activity/m/cipher-attack/Camphish-pro?style=flat-square&label=ACTIVITY&color=red" />
+      <img src="https://img.shields.io/github/directory-file-count/cipher-attack/Camphish-pro?style=flat-square&label=TOTAL%20REPOS&color=green" /><br />
+      <img src="https://img.shields.io/github/commit-activity/m/cipher-attack/Camphish-pro?style=flat-square&label=ACTIVITY&color=green" />
     </td>
   </tr>
 </table>

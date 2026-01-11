@@ -73,41 +73,37 @@ A custom-built vulnerability scanner designed for speed and stealth. Currently d
 
 ---
 
----
-
-###  // NEURAL METRICS & NETWORK ACTIVITY
+### // METRICS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=cipher-attack&show_icons=true&count_private=true&theme=neon&hide_border=true&bg_color=000000&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&include_all_commits=true" height="180" alt="Cipher Stats" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cipher-attack&layout=compact&theme=neon&hide_border=true&bg_color=000000&title_color=FF0000&text_color=FFFFFF&langs_count=6" height="180" alt="Top Languages" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cipher-attack&theme=react-dark&bg_color=000000&color=FF0000&line=FF0000&point=FFFFFF&hide_border=true" width="100%" alt="Activity Graph" />
 
 <br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=cipher-attack&theme=neon&hide_border=true&background=000000&ring=FF0000&fire=FF0000&currStreakNum=FF0000&sideNums=FFFFFF&currStreakLabel=FF0000&count_private=true" width="100%" alt="Cipher Streak" />
-
-<br />
-
-<p align="left">
-  <strong>// SYSTEM PROFICIENCY LEVEL</strong><br />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=cipher-attack&repo=Camphish-pro&theme=neon&hide_border=true&bg_color=000000&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000" height="120" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=cipher-attack&repo=cipher-osint&theme=neon&hide_border=true&bg_color=000000&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000" height="120" />
+<p align="center">
+  <img src="https://img.shields.io/badge/CORE_STRENGTH-OFFENSIVE_SECURITY-red?style=for-the-badge&logo=kali-linux" />
+  <img src="https://img.shields.io/badge/SYSTEM_HEALTH-OPERATIONAL-green?style=for-the-badge&logo=statuspage" />
 </p>
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <strong>// CODE LOGIC DISTRIBUTION</strong><br />
+      <img src="https://img.shields.io/badge/Python-90%25-red?style=flat-square&logo=python" /> <br />
+      <img src="https://img.shields.io/badge/Bash-85%25-red?style=flat-square&logo=gnu-bash" /> <br />
+      <img src="https://img.shields.io/badge/Linux-95%25-red?style=flat-square&logo=linux" />
+    </td>
+    <td width="50%" align="center">
+      <strong>// ENGAGEMENT STATS</strong><br />
+      <img src="https://img.shields.io/github/stars/cipher-attack/Camphish-pro?style=flat-square&color=red" /> <br />
+      <img src="https://img.shields.io/github/forks/cipher-attack/Camphish-pro?style=flat-square&color=red" /> <br />
+      <img src="https://img.shields.io/github/repo-size/cipher-attack/Camphish-pro?style=flat-square&color=red" />
+    </td>
+  </tr>
+</table>
 
 </div>
-
----
-
-### 🛠️ // TECHNICAL SKILLS (LIVE DEPLOYMENT)
-
-<p align="left">
-  <img src="https://img.shields.io/badge/EXPLOITATION-95%25-red?style=flat-square&logo=target" />
-  <img src="https://img.shields.io/badge/RECONNAISSANCE-90%25-red?style=flat-square&logo=spyder" />
-  <img src="https://img.shields.io/badge/AI_LOGIC-85%25-red?style=flat-square&logo=openai" />
-  <img src="https://img.shields.io/badge/MOBILE_INFRA-98%25-red?style=flat-square&logo=android" />
-</p>
-
 
 ### Commit Topology
 

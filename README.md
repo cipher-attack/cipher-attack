@@ -73,35 +73,37 @@ A custom-built vulnerability scanner designed for speed and stealth. Currently d
 
 ---
 
-### // METRICS
+### 📊 // SYSTEM TELEMETRY (CORE METRICS)
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=cipher-attack&theme=react-dark&bg_color=000000&color=FF0000&line=FF0000&point=FFFFFF&hide_border=true" width="100%" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cipher-attack&theme=react-dark&bg_color=000000&color=FF0000&line=FF0000&point=FFFFFF&hide_border=true" width="100%" />
 
 <br />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/CORE_STRENGTH-OFFENSIVE_SECURITY-red?style=for-the-badge&logo=kali-linux" />
-  <img src="https://img.shields.io/badge/SYSTEM_HEALTH-OPERATIONAL-green?style=for-the-badge&logo=statuspage" />
-</p>
-
-<table width="100%">
+<table width="100%" style="border: 1px solid #FF0000; border-collapse: collapse;">
   <tr>
-    <td width="50%" align="center">
-      <strong>// CODE LOGIC DISTRIBUTION</strong><br />
-      <img src="https://img.shields.io/badge/Python-90%25-red?style=flat-square&logo=python" /> <br />
-      <img src="https://img.shields.io/badge/Bash-85%25-red?style=flat-square&logo=gnu-bash" /> <br />
-      <img src="https://img.shields.io/badge/Linux-95%25-red?style=flat-square&logo=linux" />
+    <th align="left" style="border-bottom: 1px solid #FF0000; padding: 10px;">// LOGIC_DISTRIBUTION</th>
+    <th align="left" style="border-bottom: 1px solid #FF0000; padding: 10px;">// ENGAGEMENT_DATA</th>
+  </tr>
+  <tr>
+    <td style="padding: 10px;">
+      <code>Python</code> — 90% <br />
+      <code>Bash  </code> — 85% <br />
+      <code>Linux </code> — 95%
     </td>
-    <td width="50%" align="center">
-      <strong>// ENGAGEMENT STATS</strong><br />
-      <img src="https://img.shields.io/github/stars/cipher-attack/Camphish-pro?style=flat-square&color=red" /> <br />
-      <img src="https://img.shields.io/github/forks/cipher-attack/Camphish-pro?style=flat-square&color=red" /> <br />
-      <img src="https://img.shields.io/github/repo-size/cipher-attack/Camphish-pro?style=flat-square&color=red" />
+    <td style="padding: 10px;">
+      <code>STARS </code> — 7 <br />
+      <code>FORKS </code> — 7 <br />
+      <code>SIZE  </code> — 134 KiB
     </td>
   </tr>
 </table>
+
+<br />
+
+<img src="https://img.shields.io/badge/CORE_STRENGTH-OFFSEC-red?style=flat-square" />
+<img src="https://img.shields.io/badge/STATUS-OPERATIONAL-green?style=flat-square" />
 
 </div>
 

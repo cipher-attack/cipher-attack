@@ -73,7 +73,7 @@ A custom-built vulnerability scanner designed for speed and stealth. Currently d
 
 ---
 
-### 📊 // SYSTEM TELEMETRY (CORE METRICS)
+###  // METRICs
 
 <div align="center">
 
@@ -81,39 +81,28 @@ A custom-built vulnerability scanner designed for speed and stealth. Currently d
 
 <br />
 
-<table width="100%" style="border: 1px solid #FF0000; border-collapse: collapse;">
+<table width="100%" style="border: 1px solid #FF0000; border-collapse: collapse; background-color: #000000;">
   <tr>
-    <th align="left" style="border-bottom: 1px solid #FF0000; padding: 10px;">// LOGIC_DISTRIBUTION</th>
-    <th align="left" style="border-bottom: 1px solid #FF0000; padding: 10px;">// ENGAGEMENT_DATA</th>
+    <th align="center" style="border: 1px solid #FF0000; padding: 10px; color: #FF0000;">// AGGREGATE STATS</th>
+    <th align="center" style="border: 1px solid #FF0000; padding: 10px; color: #FF0000;">// REPO DYNAMICS</th>
   </tr>
   <tr>
-    <td style="padding: 10px;">
-      <code>Python</code> — 90% <br />
-      <code>Bash  </code> — 85% <br />
-      <code>Linux </code> — 95%
+    <td align="center" style="border: 1px solid #FF0000; padding: 10px;">
+      <img src="https://img.shields.io/github/stars/cipher-attack?style=flat-square&label=TOTAL%20STARS&color=red" /><br />
+      <img src="https://img.shields.io/github/followers/cipher-attack?style=flat-square&label=FOLLOWERS&color=red" />
     </td>
-    <td style="padding: 10px;">
-      <code>STARS </code> — 7 <br />
-      <code>FORKS </code> — 7 <br />
-      <code>SIZE  </code> — 134 KiB
+    <td align="center" style="border: 1px solid #FF0000; padding: 10px;">
+      <img src="https://img.shields.io/github/directory-file-count/cipher-attack/Camphish-pro?style=flat-square&label=TOTAL%20REPOS&color=red" /><br />
+      <img src="https://img.shields.io/github/commit-activity/m/cipher-attack/Camphish-pro?style=flat-square&label=ACTIVITY&color=red" />
     </td>
   </tr>
 </table>
 
 <br />
 
-<img src="https://img.shields.io/badge/CORE_STRENGTH-OFFSEC-red?style=flat-square" />
-<img src="https://img.shields.io/badge/STATUS-OPERATIONAL-green?style=flat-square" />
+<code>CORE_STRENGTH: OFFSEC</code> | <code>STATUS: OPERATIONAL</code>
 
 </div>
-
-### Commit Topology
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=cipher-attack&theme=react-dark&bg_color=000000&color=FF0000&line=FF0000&point=FFFFFF&hide_border=true" width="100%" alt="Activity Graph" />
-</div>
-
----
 
 ### // Connect
 

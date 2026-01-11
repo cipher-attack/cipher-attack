@@ -2,11 +2,11 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Red+Team+Operator;ETHICAL+Hacker+%2F%2F+Security+Research;Mobile-First+Infrastructure" alt="Typing SVG" />
 
-### Cipher
+### ME🤫
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=CIPHER" alt="Cipher Name" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&color=FF0001&center=true&vCenter=true&width=600&lines=CIPHER" alt="Cipher Name" />
 
 </div>
 

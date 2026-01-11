@@ -75,21 +75,39 @@ A custom-built vulnerability scanner designed for speed and stealth. Currently d
 
 ---
 
-### Stats & Metrics
+###  // NEURAL METRICS & NETWORK ACTIVITY
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=cipher-attack&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=000000&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&include_all_commits=true&cache_buster=1" height="165" alt="Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=cipher-attack&show_icons=true&count_private=true&theme=neon&hide_border=true&bg_color=000000&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&include_all_commits=true" height="180" alt="Cipher Stats" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cipher-attack&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FF0000&text_color=FFFFFF&langs_count=6&cache_buster=1" height="165" alt="Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cipher-attack&layout=compact&theme=neon&hide_border=true&bg_color=000000&title_color=FF0000&text_color=FFFFFF&langs_count=6" height="180" alt="Top Languages" />
 
 <br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=cipher-attack&theme=dark&hide_border=true&background=000000&ring=FF0000&fire=FF0000&currStreakNum=FF0000&sideNums=FFFFFF&currStreakLabel=FF0000&count_private=true" width="100%" alt="Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=cipher-attack&theme=neon&hide_border=true&background=000000&ring=FF0000&fire=FF0000&currStreakNum=FF0000&sideNums=FFFFFF&currStreakLabel=FF0000&count_private=true" width="100%" alt="Cipher Streak" />
+
+<br />
+
+<p align="left">
+  <strong>// SYSTEM PROFICIENCY LEVEL</strong><br />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=cipher-attack&repo=Camphish-pro&theme=neon&hide_border=true&bg_color=000000&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000" height="120" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=cipher-attack&repo=cipher-osint&theme=neon&hide_border=true&bg_color=000000&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000" height="120" />
+</p>
 
 </div>
 
 ---
+
+### 🛠️ // TECHNICAL SKILLS (LIVE DEPLOYMENT)
+
+<p align="left">
+  <img src="https://img.shields.io/badge/EXPLOITATION-95%25-red?style=flat-square&logo=target" />
+  <img src="https://img.shields.io/badge/RECONNAISSANCE-90%25-red?style=flat-square&logo=spyder" />
+  <img src="https://img.shields.io/badge/AI_LOGIC-85%25-red?style=flat-square&logo=openai" />
+  <img src="https://img.shields.io/badge/MOBILE_INFRA-98%25-red?style=flat-square&logo=android" />
+</p>
+
 
 ### Commit Topology
 

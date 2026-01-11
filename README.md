@@ -4,7 +4,11 @@
 
 ### Cipher
 
-<img src="https://komarev.com/ghpvc/?username=cipher-attack&label=Visitors&color=red&style=flat-square" alt="Visitor Count" />
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=CIPHER" alt="Cipher Name" />
+
+</div>
 
 ---
 

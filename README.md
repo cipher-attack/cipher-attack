@@ -100,8 +100,8 @@ A custom-built vulnerability scanner designed for speed and stealth. Currently d
       <img src="https://img.shields.io/github/followers/cipher-attack?style=flat-square&label=FOLLOWERS&labelColor=000000&color=FF0000" />
     </td>
     <td align="center" style="border: 1px solid #FF0000; padding: 10px;">
-      <img src="https://img.shields.io/github/public-repos/cipher-attack?style=flat-square&label=TOTAL%20REPOS&labelColor=000000&color=FF0000" /><br />
-      <img src="https://img.shields.io/github/commit-activity/m/cipher-attack?style=flat-square&label=ACTIVITY&labelColor=000000&color=FF0000" />
+      <img src="https://img.shields.io/github/public-repos/cipher-attack/cipher-attack?style=flat-square&label=TOTAL%20REPOS&labelColor=000000&color=FF0000" /><br />
+      <img src="https://img.shields.io/github/commit-activity/m/cipher-attack/cipherattack?style=flat-square&label=ACTIVITY&labelColor=000000&color=FF0000" />
     </td>
   </tr>
 </table>

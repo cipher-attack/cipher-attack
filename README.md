@@ -87,7 +87,7 @@ A custom-built vulnerability scanner designed for speed and stealth. Currently d
     <img src="https://github-readme-stats-8wtg.onrender.com/api?username=cipher-attack&show_icons=true&hide_border=true&bg_color=000000&title_color=ff0000&icon_color=ff0000&text_color=ffffff&count_private=true" height="175" />
     <img src="https://github-readme-stats-8wtg.onrender.com/api/top-langs/?username=cipher-attack&layout=compact&hide_border=true&bg_color=000000&title_color=FF0000&text_color=ffffff&icon_color=FF0000&count_private=true" height="175" />
   </p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cipher-attack&theme=tokyonight&hide_border=true&stroke=FF0000&ring=FF0000&fire=FF0000&currStreakNum=FF0000&cache_seconds=86400" width="380" alt="GitHub Streak" />
+  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=cipher-attack&theme=tokyonight&hide_border=true&stroke=FF0000&ring=FF0000&fire=FF0000&currStreakNum=FF0000&cache_seconds=86400](https://github-readme-streak-stats.herokuapp.com/?user=cipher-attack&theme=dark&hide_border=true&background=000000&stroke=FF0000&ring=FF0000&fire=FF0000&currStreakNum=FF0000)" width="380" alt="GitHub Streak" />
 
   <br /><br />
 

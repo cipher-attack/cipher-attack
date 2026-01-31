@@ -72,22 +72,22 @@ A custom-built vulnerability scanner designed for speed and stealth. Currently d
   <table align="center" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
     <tr>
       <td align="center" width="50%" style="border: none;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cipher-attack&theme=react-dark&bg_color=000000&color=FF0000&line=FF0000&point=FFFFFF&hide_border=true" width="70%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cipher-attack&theme=react-dark&bg_color=000000&color=FF0000&line=FF0000&point=FFFFFF&hide_border=true" width="90%" />
 
   <br />
 
   <table align="center" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
     <tr>
       <td align="center" width="50%" style="border: none;">
-        <img src="https://github-readme-stats-8wtg.onrender.com/api?username=cipher-attack&show_icons=true&hide_border=true&bg_color=000000&title_color=ff0000&icon_color=ff0000&text_color=ffffff&count_private=true" width="90%" />
+        <img src="https://github-readme-stats-8wtg.onrender.com/api?username=cipher-attack&show_icons=true&hide_border=true&bg_color=000000&title_color=ff0000&icon_color=ff0000&text_color=ffffff&count_private=true" width="100%" />
       </td>
       <td align="center" width="50%" style="border: none;">
-        <img src="https://github-readme-stats-8wtg.onrender.com/api/top-langs/?username=cipher-attack&layout=compact&hide_border=true&bg_color=000000&title_color=FF0000&text_color=ffffff&icon_color=FF0000&count_private=true" width="90%" />
+        <img src="https://github-readme-stats-8wtg.onrender.com/api/top-langs/?username=cipher-attack&layout=compact&hide_border=true&bg_color=000000&title_color=FF0000&text_color=ffffff&icon_color=FF0000&count_private=true" width="100%" />
       </td>
     </tr>
   </table>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cipher-attack&theme=dark&hide_border=true&background=000000&stroke=FF0000&ring=FF0000&fire=FF0000&currStreakNum=FF0000&sideNums=FF0000&currStreakLabel=FF0000&sideLabels=FF0000&dates=ffffff" width="70%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cipher-attack&theme=dark&hide_border=true&background=000000&stroke=FF0000&ring=FF0000&fire=FF0000&currStreakNum=FF0000&sideNums=FF0000&currStreakLabel=FF0000&sideLabels=FF0000&dates=ffffff" width="90%" alt="GitHub Streak" />
 
   <br /><br />
 

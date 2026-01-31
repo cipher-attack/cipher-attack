@@ -71,14 +71,14 @@ A custom-built vulnerability scanner designed for speed and stealth. Currently d
   <br ></div><br  />
   <table align="center" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
     <tr>
-      <td align="center" width="50%" style="border: none;">
+      <td align="center" width="60%" style="border: none;">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cipher-attack&theme=react-dark&bg_color=000000&color=FF0000&line=FF0000&point=FFFFFF&hide_border=true" width="90%" />
 
   <br />
 
   <table align="center" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
     <tr>
-      <td align="center" width="50%" style="border: none;">
+      <td align="center" width="60%" style="border: none;">
         <img src="https://github-readme-stats-8wtg.onrender.com/api?username=cipher-attack&show_icons=true&hide_border=true&bg_color=000000&title_color=ff0000&icon_color=ff0000&text_color=ffffff&count_private=true" width="100%" />
       </td>
       <td align="center" width="60%" style="border: none;">

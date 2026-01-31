@@ -105,7 +105,7 @@ A custom-built vulnerability scanner designed for speed and stealth. Currently d
 
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cipher-attack&layout=compact&hide_border=true&bg_color=000000&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&v=99" />
+<img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=cipher-attack&layout=compact&hide_border=true&bg_color=000000&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&v=101" />
 
 <br /><br />
 
@@ -120,7 +120,8 @@ A custom-built vulnerability scanner designed for speed and stealth. Currently d
       <img src="https://img.shields.io/github/followers/cipher-attack?style=flat-square&label=FOLLOWERS&labelColor=000000&color=FF0000" />
     </td>
     <td align="center" style="border: 1px solid #FF0000; padding: 10px;">
-      <img src="https://img.shields.io/github/public-repos/cipher-attack/cipher-attack?style=flat-square&label=TOTAL%20REPOS&labelColor=000000&color=FF0000" /><br />
+      <img src="https://img.shields.io/github/public-repos/cipher-attack/cipher-attack?style=flat-square&label=TOTAL%20REPOS&labelColor=000000&color=FF0000" />
+      <br
       <img src="https://img.shields.io/github/commit-activity/m/cipher-attack/cipher-attack?style=flat-square&label=ACTIVITY&labelColor=000000&color=FF0000" />
     </td>
   </tr>

@@ -79,12 +79,9 @@ A custom-built vulnerability scanner designed for speed and stealth. Currently d
 ### // ACHIEVEMENTS & RANKING
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cipher-attack&theme=dracula&no-frame=true&column=4" alt="Trophies" />
-  
-  <br />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cipher-attack&theme=tokyonight&hide_border=true&stroke=FF0000&ring=FF0000&fire=FF0000&currStreakNum=FF0000" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cipher-attack&theme=tokyonight&hide_border=true&stroke=FF0000&ring=FF0000&fire=FF0000&currStreakNum=FF0000&cache_seconds=86400" alt="GitHub Streak" />
 </div>
+
 
 
 ###  // METRICs

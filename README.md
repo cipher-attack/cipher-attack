@@ -83,8 +83,9 @@ A custom-built vulnerability scanner designed for speed and stealth. Currently d
   
   <br />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cipher-attack&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cipher-attack&theme=tokyonight&hide_border=true&stroke=FF0000&ring=FF0000&fire=FF0000&currStreakNum=FF0000" alt="GitHub Streak" />
 </div>
+
 
 ###  // METRICs
 

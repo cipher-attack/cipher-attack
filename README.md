@@ -83,7 +83,7 @@ A custom-built vulnerability scanner designed for speed and stealth. Currently d
   <table border="0">
     <tr>
       <td align="center">
-        <img src="https://github-profile-trophy.vercel.app/?theme=dracula&no-frame=true&column=4&margin-w=15&v=unique123&username=cipher-attack" width="400" />
+        <img src="https://github-profile-trophy.vercel.app/?username=cipher-attack&theme=dracula&no-frame=true&margin-w=15&v=final_fix" width="400" />
       </td>
     </tr>
     <tr>

@@ -1,4 +1,4 @@
-<div align="center">
+₈<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Red+Team+Operator;ETHICAL+Hacker+%2F%2F+Security+Research;Mobile-First+Infrastructure" alt="Typing SVG" />
 
@@ -101,36 +101,50 @@ A custom-built vulnerability scanner designed for speed and stealth. Currently d
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=cipher-attack&theme=react-dark&bg_color=000000&color=FF0000&line=FF0000&point=FFFFFF&hide_border=true" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=cipher-attack&theme=shady-lane&no-bg=true&column=7&margin-w=15&title_color=ff0000" width="100%" alt="GitHub Trophies" />
+  
+  <br /><br />
 
-<br />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cipher-attack&theme=react-dark&bg_color=000000&color=FF0000&line=FF0000&point=FFFFFF&hide_border=true" width="100%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cipher-attack&layout=compact&hide_border=true&bg_color=000000&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&count_private=true&v=final" />
+  <br /><br />
 
-<br /><br />
+  <table style="border: none; background-color: #000000;">
+    <tr>
+      <td align="center" style="border: none; padding-right: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=cipher-attack&show_icons=true&hide_border=true&bg_color=000000&title_color=ff0000&icon_color=ff0000&text_color=ffffff" alt="GitHub Stats" />
+      </td>
+      <td align="center" style="border: none; padding-left: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cipher-attack&layout=compact&hide_border=true&bg_color=000000&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&count_private=true&v=final" alt="Top Langs" />
+      </td>
+    </tr>
+  </table>
 
-<table width="100%" style="border: 1px solid #FF0000; border-collapse: collapse; background-color: #000000;">
-  <tr>
-    <th align="center" style="border: 1px solid #FF0000; padding: 10px; color: #FF0000;">AGGREGATE STATS</th>
-    <th align="center" style="border: 1px solid #FF0000; padding: 10px; color: #FF0000;">REPO DYNAMICS</th>
-  </tr>
-  <tr>
-    <td align="center" style="border: 1px solid #FF0000; padding: 10px;">
-      <img src="https://img.shields.io/github/stars/cipher-attack?style=flat-square&label=TOTAL%20STARS&labelColor=000000&color=FF0000" /><br />
-      <img src="https://img.shields.io/github/followers/cipher-attack?style=flat-square&label=FOLLOWERS&labelColor=000000&color=FF0000" />
-    </td>
-    <td align="center" style="border: 1px solid #FF0000; padding: 10px;">
-      <img src="https://img.shields.io/badge/REPOS-33-FF0000?style=flat-square&labelColor=000000" /><br />
-      <img src="https://img.shields.io/github/commit-activity/m/cipher-attack/cipher-attack?style=flat-square&label=ACTIVITY&labelColor=000000&color=FF0000" />
-    </td>
-  </tr>
-</table>
+  <br />
 
-<br />
+  <table width="100%" style="border: 1px solid #FF0000; border-collapse: collapse; background-color: #000000;">
+    <tr>
+      <th align="center" style="border: 1px solid #FF0000; padding: 10px; color: #FF0000;">AGGREGATE STATS</th>
+      <th align="center" style="border: 1px solid #FF0000; padding: 10px; color: #FF0000;">REPO DYNAMICS</th>
+    </tr>
+    <tr>
+      <td align="center" style="border: 1px solid #FF0000; padding: 10px;">
+        <img src="https://img.shields.io/github/stars/cipher-attack?style=flat-square&label=TOTAL%20STARS&labelColor=000000&color=FF0000" /><br />
+        <img src="https://img.shields.io/github/followers/cipher-attack?style=flat-square&label=FOLLOWERS&labelColor=000000&color=FF0000" />
+      </td>
+      <td align="center" style="border: 1px solid #FF0000; padding: 10px;">
+        <img src="https://img.shields.io/badge/REPOS-33-FF0000?style=flat-square&labelColor=000000" /><br />
+        <img src="https://img.shields.io/github/commit-activity/m/cipher-attack/cipher-attack?style=flat-square&label=ACTIVITY&labelColor=000000&color=FF0000" />
+      </td>
+    </tr>
+  </table>
 
-<code>CORE_STRENGTH: OFFSEC</code> | <code>STATUS: OPERATIONAL</code>
+  <br />
+
+  <code>CORE_STRENGTH: OFFSEC</code> | <code>STATUS: OPERATIONAL</code>
 
 </div>
+
 
 ### // Connect
 

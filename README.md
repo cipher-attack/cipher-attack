@@ -120,7 +120,7 @@ A custom-built vulnerability scanner designed for speed and stealth. Currently d
       <img src="https://img.shields.io/github/followers/cipher-attack?style=flat-square&label=FOLLOWERS&labelColor=000000&color=FF0000" />
     </td>
     <td align="center" style="border: 1px solid #FF0000; padding: 10px;">
-      <img src="https://img.shields.io/badge/REPOS-17-FF0000?style=flat-square&labelColor=000000" /><br />
+      <img src="https://img.shields.io/badge/REPOS-33-FF0000?style=flat-square&labelColor=000000" /><br />
       <img src="https://img.shields.io/github/commit-activity/m/cipher-attack/cipher-attack?style=flat-square&label=ACTIVITY&labelColor=000000&color=FF0000" />
     </td>
   </tr>

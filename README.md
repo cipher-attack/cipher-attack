@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/FOCUS-OFFSEC-000000?style=for-the-badge&labelColor=000000&color=FF0000" alt="Focus" />
 </p>
 
-<img src="./key.svg" alt="Cipher Key" width="80" />
+<img src="./key.svg" alt="Cipher Key" width="90" />
 
 </div>
 
@@ -39,7 +39,7 @@ A custom-built vulnerability scanner designed for speed and stealth. Currently d
 
 <div align="center">
   
-<table align="center" style="border: none;">
+<table align="center" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
 <tr>
 <td align="center" style="border: none;">
   <strong>Security Tools</strong><br/><br/>
@@ -79,7 +79,7 @@ A custom-built vulnerability scanner designed for speed and stealth. Currently d
 
   <br />
 
-  <table align="center" style="border: none;">
+  <table align="center" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
     <tr>
       <td align="center" width="50%" style="border: none;">
         <img src="https://github-readme-stats-8wtg.onrender.com/api?username=cipher-attack&show_icons=true&hide_border=true&bg_color=000000&title_color=ff0000&icon_color=ff0000&text_color=ffffff&count_private=true" width="100%" />
@@ -90,7 +90,7 @@ A custom-built vulnerability scanner designed for speed and stealth. Currently d
     </tr>
   </table>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cipher-attack&theme=dark&hide_border=true&background=000000&stroke=FF0000&ring=FF0000&fire=FF0000&currStreakNum=FF0000&sideNums=FF0000&currStreakLabel=FF0000&sideLabels=FF0000&dates=ffffff" width="100%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cipher-attack&theme=dark&hide_border=true&background=000000&stroke=FF0000&ring=FF0000&fire=FF0000&currStreakNum=FF0000&sideNums=FF0000&currStreakLabel=FF0000&sideLabels=FF0000&dates=ffffff" width="70%" alt="GitHub Streak" />
 
   <br /><br />
 

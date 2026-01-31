@@ -105,7 +105,7 @@ A custom-built vulnerability scanner designed for speed and stealth. Currently d
 
 <br />
 
-<img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=cipher-attack&layout=compact&hide_border=true&bg_color=000000&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&v=101" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cipher-attack&layout=compact&hide_border=true&bg_color=000000&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&count_private=true&v=final" />
 
 <br /><br />
 

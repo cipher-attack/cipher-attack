@@ -38,32 +38,28 @@ A custom-built vulnerability scanner designed for speed and stealth. Currently d
 ### Arsenal
 
 <div align="center">
-
-**Security Tools**
-<br />
-<img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kali-linux&logoColor=FF0000" alt="Kali" />
-&nbsp;
-<img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=FF0000" alt="Metasploit" />
-&nbsp;
-<img src="https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=FF0000" alt="Burp" />
-
-<br /><br />
-
-**AI & Logic**
-<br />
-<img src="https://img.shields.io/badge/Prompt_Engineering-000000?style=for-the-badge&logo=openai&logoColor=FF0000" alt="Prompt" />
-&nbsp;
-<img src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=FF0000" alt="PyTorch" />
-
-<br /><br />
-
-**Core Languages**
-<br />
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FF0000" alt="Python" />
-&nbsp;
-<img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=FF0000" alt="Bash" />
-&nbsp;
-<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FF0000" alt="Linux" />
+  
+<table align="center" style="border: none;">
+<tr>
+<td align="center" style="border: none;">
+  <strong>Security Tools</strong><br/><br/>
+  <img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kali-linux&logoColor=FF0000" alt="Kali" />
+  <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=FF0000" alt="Metasploit" />
+  <img src="https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=FF0000" alt="Burp" />
+</td>
+</tr>
+<tr>
+<td align="center" style="border: none;">
+  <strong>AI & Logic</strong> &nbsp;&nbsp;&nbsp; <strong>Core Languages</strong><br/><br/>
+  <img src="https://img.shields.io/badge/Prompt_Engineering-000000?style=for-the-badge&logo=openai&logoColor=FF0000" alt="Prompt" />
+  <img src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=FF0000" alt="PyTorch" />
+  &nbsp;|&nbsp;
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FF0000" alt="Python" />
+  <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=FF0000" alt="Bash" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FF0000" alt="Linux" />
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -77,16 +73,23 @@ A custom-built vulnerability scanner designed for speed and stealth. Currently d
     <img src="https://github-profile-trophy.vercel.app/?username=cipher-attack&theme=shady-lane&no-bg=true&column=7&margin-w=20&title_color=ff0000" alt="Cipher Trophies" />
   </a>
   
-  <br />
+  <br /><br />
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cipher-attack&theme=react-dark&bg_color=000000&color=FF0000&line=FF0000&point=FFFFFF&hide_border=true" width="100%" />
 
-  <br /><br />
+  <br />
 
-  <p align="center">
-    <img src="https://github-readme-stats-8wtg.onrender.com/api?username=cipher-attack&show_icons=true&hide_border=true&bg_color=000000&title_color=ff0000&icon_color=ff0000&text_color=ffffff&count_private=true" height="175" />
-    <img src="https://github-readme-stats-8wtg.onrender.com/api/top-langs/?username=cipher-attack&layout=compact&hide_border=true&bg_color=000000&title_color=FF0000&text_color=ffffff&icon_color=FF0000&count_private=true" height="175" />
-  </p>
+  <table align="center" style="border: none;">
+    <tr>
+      <td align="center" width="50%" style="border: none;">
+        <img src="https://github-readme-stats-8wtg.onrender.com/api?username=cipher-attack&show_icons=true&hide_border=true&bg_color=000000&title_color=ff0000&icon_color=ff0000&text_color=ffffff&count_private=true" width="100%" />
+      </td>
+      <td align="center" width="50%" style="border: none;">
+        <img src="https://github-readme-stats-8wtg.onrender.com/api/top-langs/?username=cipher-attack&layout=compact&hide_border=true&bg_color=000000&title_color=FF0000&text_color=ffffff&icon_color=FF0000&count_private=true" width="100%" />
+      </td>
+    </tr>
+  </table>
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cipher-attack&theme=dark&hide_border=true&background=000000&stroke=FF0000&ring=FF0000&fire=FF0000&currStreakNum=FF0000&sideNums=FF0000&currStreakLabel=FF0000&sideLabels=FF0000&dates=ffffff" width="100%" alt="GitHub Streak" />
 
   <br /><br />
@@ -102,25 +105,6 @@ A custom-built vulnerability scanner designed for speed and stealth. Currently d
 </div>
 
 ---
-
-### // Connect
-
-<div align="center">
-
-<a href="https://x.com/Cipher_attacks"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=FF0000" /></a>
-&nbsp;
-<a href="https://www.youtube.com/@cipher-attack"><img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=FF0000" /></a>
-&nbsp;
-<a href="https://et.linkedin.com/in/cipher-attack-93582433"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF0000" /></a>
-&nbsp;
-<a href="https://github.com/cipher-attack"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF0000" /></a>
-
-<br /><br />
-
-**"deciphering the future before it happens..."**
-
-</div>
-
 
 ### // Connect
 

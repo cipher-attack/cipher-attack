@@ -73,40 +73,55 @@ A custom-built vulnerability scanner designed for speed and stealth. Currently d
 
 <div align="center">
 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=cipher-attack&theme=shady-lane&no-bg=true&column=7&margin-w=15&title_color=ff0000" alt="Trophies" />
+  <a href="https://github.com/cipher-attack">
+    <img src="https://github-profile-trophy.vercel.app/?username=cipher-attack&theme=shady-lane&no-bg=true&column=7&margin-w=20&title_color=ff0000" alt="Cipher Trophies" />
   </a>
   
-  <br /><br />
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cipher-attack&theme=react-dark&bg_color=000000&color=FF0000&line=FF0000&point=FFFFFF&hide_border=true" width="100%" alt="Activity Graph" />
-
-  <br /><br />
-
-  <p align="center">
-    <img src="https://github-readme-stats-8wtg.onrender.com/api?username=cipher-attack&show_icons=true&hide_border=true&bg_color=000000&title_color=ff0000&icon_color=ff0000&text_color=dedede&count_private=true" height="170" alt="GitHub Stats" />
-    <img src="https://github-readme-stats-8wtg.onrender.com/api/top-langs/?username=cipher-attack&layout=compact&hide_border=true&bg_color=000000&title_color=FF0000&text_color=dedede&icon_color=FF0000&count_private=true" height="170" alt="Top Langs" />
-  </p>
-
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=cipher-attack&theme=dark&hide_border=true&background=000000&stroke=FF0000&ring=FF0000&fire=FF0000&currStreakNum=FF0000&sideNums=FF0000&currStreakLabel=FF0000&sideLabels=FF0000&dates=dedede" alt="GitHub Streak" />
-  </p>
-
   <br />
 
-  <img src="https://img.shields.io/github/stars/cipher-attack?style=social&label=Stars" />
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/cipher-attack?style=social&label=Followers" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/REPOS-33-FF0000?style=flat-square&labelColor=000000" />
-  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cipher-attack&theme=react-dark&bg_color=000000&color=FF0000&line=FF0000&point=FFFFFF&hide_border=true" width="100%" />
+
   <br /><br />
+
+  <p align="center">
+    <img src="https://github-readme-stats-8wtg.onrender.com/api?username=cipher-attack&show_icons=true&hide_border=true&bg_color=000000&title_color=ff0000&icon_color=ff0000&text_color=ffffff&count_private=true" height="175" />
+    <img src="https://github-readme-stats-8wtg.onrender.com/api/top-langs/?username=cipher-attack&layout=compact&hide_border=true&bg_color=000000&title_color=FF0000&text_color=ffffff&icon_color=FF0000&count_private=true" height="175" />
+  </p>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cipher-attack&theme=dark&hide_border=true&background=000000&stroke=FF0000&ring=FF0000&fire=FF0000&currStreakNum=FF0000&sideNums=FF0000&currStreakLabel=FF0000&sideLabels=FF0000&dates=ffffff" width="100%" />
+
+  <br /><br />
+
+  <p align="center">
+    <img src="https://img.shields.io/github/stars/cipher-attack?style=flat-square&label=TOTAL%20STARS&labelColor=000000&color=FF0000" />
+    <img src="https://img.shields.io/github/followers/cipher-attack?style=flat-square&label=FOLLOWERS&labelColor=000000&color=FF0000" />
+    <img src="https://img.shields.io/badge/REPOS-33-FF0000?style=flat-square&labelColor=000000" />
+  </p>
 
   <code>CORE_STRENGTH: OFFSEC</code> | <code>STATUS: OPERATIONAL</code>
 
 </div>
 
 ---
+
+### // Connect
+
+<div align="center">
+
+<a href="https://x.com/Cipher_attacks"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=FF0000" /></a>
+&nbsp;
+<a href="https://www.youtube.com/@cipher-attack"><img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=FF0000" /></a>
+&nbsp;
+<a href="https://et.linkedin.com/in/cipher-attack-93582433"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF0000" /></a>
+&nbsp;
+<a href="https://github.com/cipher-attack"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF0000" /></a>
+
+<br /><br />
+
+**"deciphering the future before it happens..."**
+
+</div>
+
 
 ### // Connect
 

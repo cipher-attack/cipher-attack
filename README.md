@@ -68,6 +68,10 @@ A custom-built vulnerability scanner designed for speed and stealth. Currently d
 ### // INTELLIGENCE & METRICS
 
 <div 
+  <br ></div><br  />
+  <table align="center" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
+    <tr>
+      <td align="center" width="50%" style="border: none;">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cipher-attack&theme=react-dark&bg_color=000000&color=FF0000&line=FF0000&point=FFFFFF&hide_border=true" width="70%" />
 
   <br />

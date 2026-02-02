@@ -1,13 +1,12 @@
-<!-- HEADER AND SPLIT LAYOUT START -->
-<!-- Galaxy Background applied here -->
-<table border="0" width="100%" cellspacing="0" cellpadding="0" background="https://user-images.githubusercontent.com/25091929/134954737-1e523f66-86d7-400d-83f0-482438b472e3.gif" style="background-image: url('https://user-images.githubusercontent.com/25091929/134954737-1e523f66-86d7-400d-83f0-482438b472e3.gif'); background-size: cover; border-radius: 10px; overflow: hidden;">
+<!-- GALAXY BACKGROUND HEADER START -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0" background="https://i.pinimg.com/originals/c8/b2/8d/c8b28d6c79b940909403de4c75908227.gif" style="background-image: url('https://i.pinimg.com/originals/c8/b2/8d/c8b28d6c79b940909403de4c75908227.gif'); background-size: cover; border-radius: 10px; color: white;">
   <tr>
-    <!-- LEFT SIDE: INFO -->
-    <td width="55%" valign="top">
+    <!-- LEFT SIDE -->
+    <td width="55%" valign="top" style="padding: 20px;">
       <div align="center">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF0000&center=true&vCenter=true&width=450&lines=Red+Team+Operator;ETHICAL+Hacker+%2F%2F+Security+Research;Mobile-First+Infrastructure" alt="Typing SVG" />
-        <h3>ME🤫</h3>
-        <h1><kbd> C I P H E R </kbd></h1>
+        <h3 style="color: #ffffff;">ME🤫</h3>
+        <h1><kbd style="background-color: #333; color: #FF0000; border: 1px solid #FF0000;"> C I P H E R </kbd></h1>
         <p>
           <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-000000?style=for-the-badge&labelColor=000000&color=FF0000" alt="Status" />
           <img src="https://img.shields.io/badge/FOCUS-OFFSEC-000000?style=for-the-badge&labelColor=000000&color=FF0000" alt="Focus" />
@@ -15,44 +14,43 @@
         <img src="./key.svg" alt="Cipher Key" width="80" />
       </div>
       <br />
-      <!-- Text container with slight background for readability over galaxy -->
-      <div style="background-color: rgba(0,0,0,0.6); padding: 10px; border-radius: 8px;">
-        <h3>// root@cipher:~# whoami</h3>
-        <p>
+      <!-- Black translucent box for text readability -->
+      <div style="background-color: rgba(0,0,0,0.7); padding: 15px; border-radius: 10px; border-left: 3px solid #FF0000;">
+        <h3 style="color: #FF0000; margin-top: 0;">// root@cipher:~# whoami</h3>
+        <p style="color: #eeeeee; font-size: 14px;">
           Security Researcher focusing on Offensive Operations and AI-driven exploitations. I specialize in maximizing impact within constrained environments—running full-scale red team ops directly from mobile terminals. Hardware limitations are just another puzzle to solve.
         </p>
-        <ul>
-          <li><strong>Current Op:</strong> Automating reconnaissance pipelines.</li>
-          <li><strong>Architecture:</strong> Mobile-First / Termux / Cloud C2.</li>
-          <li><strong>Focus:</strong> Prompt Injection vectors & Network infiltration.</li>
+        <ul style="color: #eeeeee; font-size: 13px;">
+          <li><b>Current Op:</b> Automating reconnaissance pipelines.</li>
+          <li><b>Architecture:</b> Mobile-First / Termux / Cloud C2.</li>
+          <li><b>Focus:</b> Prompt Injection vectors & Network infiltration.</li>
         </ul>
       </div>
     </td>
-    <!-- RIGHT SIDE: GIF AND NEW TEXT -->
-    <td width="45%" align="center" valign="middle">
-      <br />
-      <img src="CIPHER_STUDIO.gif" width="100%" style="border-radius: 10px; box-shadow: 0 0 10px #FF0000;" />
+    
+    <!-- RIGHT SIDE -->
+    <td width="45%" align="center" valign="top" style="padding: 20px;">
+      <img src="CIPHER_STUDIO.gif" width="100%" style="border-radius: 10px; box-shadow: 0 0 15px #FF0000; margin-bottom: 15px;" />
       
-      <!-- ADDED SECTION START -->
-      <div align="left" style="margin-top: 15px; font-family: monospace; font-size: 11px; background-color: rgba(10, 10, 10, 0.85); padding: 12px; border-left: 2px solid #FF0000; border-radius: 4px; color: #e6e6e6;">
-        <p style="margin: 0 0 8px 0;">
-          <span style="color: #FF0000;">></span> <strong>Experiment:</strong><br/>
+      <!-- NEW TEXT BOX START -->
+      <div style="background-color: rgba(0, 0, 0, 0.85); border: 1px solid #FF0000; border-radius: 6px; padding: 12px; text-align: left;">
+        <p style="color: #ffffff; font-size: 12px; font-family: monospace; margin: 0 0 10px 0;">
           Testing the boundaries of AI models (Gemini all models) in security script generation.
         </p>
-        <p style="margin: 0 0 8px 0;">
-          <span style="color: #FF0000;">></span> <strong>Skill Demonstrated:</strong><br/>
-          Advanced Prompt Engineering to bypass standard AI guardrails for educational research.
+        <p style="color: #ffffff; font-size: 12px; font-family: monospace; margin: 0 0 10px 0;">
+          <span style="color: #FF0000; font-weight: bold;">Skill Demonstrated:</span> 
+          "Advanced Prompt Engineering to bypass standard AI guardrails for educational research."
         </p>
-        <p style="margin: 0; font-size: 10px; color: #ff5555; opacity: 0.9;">
-          ⚠️ <strong>Disclaimer:</strong> This script is for research only. Unauthorized use is prohibited.
+        <p style="color: #ff5555; font-size: 11px; font-family: monospace; margin: 0; font-style: italic;">
+          Disclaimer: "This script is for research only. Unauthorized use is prohibited."
         </p>
       </div>
-      <!-- ADDED SECTION END -->
-
+      <!-- NEW TEXT BOX END -->
+      
     </td>
   </tr>
 </table>
-<!-- HEADER AND SPLIT LAYOUT END -->
+<!-- HEADER END -->
 
 ---
 

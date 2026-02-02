@@ -1,33 +1,43 @@
-<div align="center">
+<!-- SPLIT HEADER & BIO SECTION START -->
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+  <tr>
+    <!-- LEFT SIDE: IDENTITY & BIO -->
+    <td width="55%" valign="top">
+      <div align="center">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF0000&center=true&vCenter=true&width=450&lines=Red+Team+Operator;ETHICAL+Hacker+%2F%2F+Security+Research;Mobile-First+Infrastructure" alt="Typing SVG" />
+        
+        <h3>ME🤫</h3>
+        <h1><kbd> C I P H E R </kbd></h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Red+Team+Operator;ETHICAL+Hacker+%2F%2F+Security+Research;Mobile-First+Infrastructure" alt="Typing SVG" />
-
-### ME🤫
-
-# <kbd> C I P H E R </kbd>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-000000?style=for-the-badge&labelColor=000000&color=FF0000" alt="Status" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/FOCUS-OFFSEC-000000?style=for-the-badge&labelColor=000000&color=FF0000" alt="Focus" />
-</p>
-
-<img src="./key.svg" alt="Cipher Key" width="90" />
-
-</div>
-
-<div align="center">
-  <img src="CIPHER_STUDIO.gif" width="100%" style="border-radius: 10px;" />
-</div>
----
-
-### // root@cipher:~# whoami
-
-Security Researcher focusing on Offensive Operations and AI-driven exploitations. I specialize in maximizing impact within constrained environments—running full-scale red team ops directly from mobile terminals. Hardware limitations are just another puzzle to solve.
-
-* **Current Op:** Automating reconnaissance pipelines.
-* **Architecture:** Mobile-First / Termux / Cloud C2.
-* **Focus:** Prompt Injection vectors & Network infiltration.
+        <p>
+          <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-000000?style=for-the-badge&labelColor=000000&color=FF0000" alt="Status" />
+          <img src="https://img.shields.io/badge/FOCUS-OFFSEC-000000?style=for-the-badge&labelColor=000000&color=FF0000" alt="Focus" />
+        </p>
+        
+        <img src="./key.svg" alt="Cipher Key" width="80" />
+      </div>
+      
+      <br />
+      
+      <h3>// root@cipher:~# whoami</h3>
+      <p>
+        Security Researcher focusing on Offensive Operations and AI-driven exploitations. I specialize in maximizing impact within constrained environments—running full-scale red team ops directly from mobile terminals. Hardware limitations are just another puzzle to solve.
+      </p>
+      <ul>
+        <li><strong>Current Op:</strong> Automating reconnaissance pipelines.</li>
+        <li><strong>Architecture:</strong> Mobile-First / Termux / Cloud C2.</li>
+        <li><strong>Focus:</strong> Prompt Injection vectors & Network infiltration.</li>
+      </ul>
+    </td>
+    
+    <!-- RIGHT SIDE: VISUALS (GIF) -->
+    <td width="45%" align="center" valign="center">
+      <br /><br />
+      <img src="CIPHER_STUDIO.gif" width="100%" style="border-radius: 10px;" />
+    </td>
+  </tr>
+</table>
+<!-- SPLIT SECTION END -->
 
 ---
 
@@ -70,11 +80,8 @@ A custom-built vulnerability scanner designed for speed and stealth. Currently d
 
 ### // INTELLIGENCE & METRICS
 
-<div 
-  <br ></div><br  />
-  <table align="center" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
-    <tr>
-      <td align="center" width="60%" style="border: none;">
+<div align="center">
+  <br />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cipher-attack&theme=react-dark&bg_color=000000&color=FF0000&line=FF0000&point=FFFFFF&hide_border=true" width="90%" />
 
   <br />

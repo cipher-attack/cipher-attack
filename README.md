@@ -25,10 +25,6 @@
       </ul>
     </td>
     <!-- RIGHT SIDE: GIF -->
-### 🔬 Technical Overview
-* **Project Goal**: Testing the boundaries and capabilities of the **Gemini 3 Model Family** (Ultra, Pro, and Flash) in automated security script generation.
-* **Skill Demonstrated**: Advanced Prompt Engineering techniques used to navigate standard AI guardrails across the **Gemini 3** ecosystem for high-level educational research.
-* **Disclaimer**: This script is strictly for research and ethical study only. Unauthorized use against any system is prohibited and may be subject to legal action.
     <td width="45%" align="center" valign="middle">
       <br />
       <img src="CIPHER_STUDIO.gif" width="100%" style="border-radius: 10px;" />

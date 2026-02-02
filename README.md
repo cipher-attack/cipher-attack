@@ -1,24 +1,19 @@
-<!-- SPLIT HEADER & BIO SECTION START -->
+<!-- HEADER AND SPLIT LAYOUT START -->
 <table border="0" width="100%" cellspacing="0" cellpadding="0">
   <tr>
-    <!-- LEFT SIDE: IDENTITY & BIO -->
+    <!-- LEFT SIDE: INFO -->
     <td width="55%" valign="top">
       <div align="center">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF0000&center=true&vCenter=true&width=450&lines=Red+Team+Operator;ETHICAL+Hacker+%2F%2F+Security+Research;Mobile-First+Infrastructure" alt="Typing SVG" />
-        
         <h3>ME🤫</h3>
         <h1><kbd> C I P H E R </kbd></h1>
-
         <p>
           <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-000000?style=for-the-badge&labelColor=000000&color=FF0000" alt="Status" />
           <img src="https://img.shields.io/badge/FOCUS-OFFSEC-000000?style=for-the-badge&labelColor=000000&color=FF0000" alt="Focus" />
         </p>
-        
         <img src="./key.svg" alt="Cipher Key" width="80" />
       </div>
-      
       <br />
-      
       <h3>// root@cipher:~# whoami</h3>
       <p>
         Security Researcher focusing on Offensive Operations and AI-driven exploitations. I specialize in maximizing impact within constrained environments—running full-scale red team ops directly from mobile terminals. Hardware limitations are just another puzzle to solve.
@@ -29,15 +24,14 @@
         <li><strong>Focus:</strong> Prompt Injection vectors & Network infiltration.</li>
       </ul>
     </td>
-    
-    <!-- RIGHT SIDE: VISUALS (GIF) -->
-    <td width="45%" align="center" valign="center">
-      <br /><br />
+    <!-- RIGHT SIDE: GIF -->
+    <td width="45%" align="center" valign="middle">
+      <br />
       <img src="CIPHER_STUDIO.gif" width="100%" style="border-radius: 10px;" />
     </td>
   </tr>
 </table>
-<!-- SPLIT SECTION END -->
+<!-- HEADER AND SPLIT LAYOUT END -->
 
 ---
 
@@ -51,7 +45,6 @@ A custom-built vulnerability scanner designed for speed and stealth. Currently d
 ### Arsenal
 
 <div align="center">
-  
 <table align="center" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
 <tr>
 <td align="center" style="border: none;">
@@ -73,7 +66,6 @@ A custom-built vulnerability scanner designed for speed and stealth. Currently d
 </td>
 </tr>
 </table>
-
 </div>
 
 ---
@@ -108,7 +100,6 @@ A custom-built vulnerability scanner designed for speed and stealth. Currently d
   </p>
 
   <code>CORE_STRENGTH: OFFSEC</code> | <code>STATUS: OPERATIONAL</code>
-
 </div>
 
 ---
@@ -116,7 +107,6 @@ A custom-built vulnerability scanner designed for speed and stealth. Currently d
 ### // Connect
 
 <div align="center">
-
 <a href="https://x.com/Cipher_attacks"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=FF0000" alt="X" /></a>
 &nbsp;
 <a href="https://www.youtube.com/@cipher-attack"><img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="YouTube" /></a>
@@ -126,7 +116,5 @@ A custom-built vulnerability scanner designed for speed and stealth. Currently d
 <a href="https://github.com/cipher-attack"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF0000" alt="GitHub" /></a>
 
 <br /><br />
-
-**"deciphering the future before it happens..."**
-
+<strong>"deciphering the future before it happens..."</strong>
 </div>

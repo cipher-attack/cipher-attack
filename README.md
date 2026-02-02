@@ -25,18 +25,18 @@
       </ul>
     </td>
     <!-- RIGHT SIDE: GIF -->
-    <td width="45%" align="center" valign="middle">
+    <td width="55%" align="center" valign="top">
     <br />
     <img src="CIPHER_STUDIO.gif" width="100%" style="border-radius: 10px;" />
+    
     <br /><br />
     
-    <div align="left" style="font-size: 0.9em;">
-        <p><strong>Project Goal:</strong> Testing the boundaries of Gemini 3 models in security script generation.</p>
-        <p><strong>Skill Demonstrated:</strong> Advanced Prompt Engineering to bypass standard AI guardrails for educational research.</p>
-        <p><strong>Disclaimer:</strong> This script is for research only. Unauthorized use is prohibited.</p>
+    <div align="left" style="font-size: 0.85em; color: #abb2bf; padding: 10px;">
+        <p><strong>🚀 Project Goal:</strong> Testing the boundaries of Gemini 3 models in security script generation.</p>
+        <p><strong>💡 Skill Demonstrated:</strong> Advanced Prompt Engineering to bypass standard AI guardrails for educational research.</p>
+        <p><strong>⚠️ Disclaimer:</strong> This script is for research only. Unauthorized use is prohibited.</p>
     </div>
 </td>
-
   </tr>
 </table>
 <!-- HEADER AND SPLIT LAYOUT END -->

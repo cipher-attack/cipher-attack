@@ -1,8 +1,7 @@
 <!-- HEADER AND SPLIT LAYOUT START -->
-<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<table border="0" width="100%" cellspacing="0" cellpadding="10">
   <tr>
-    <!-- LEFT SIDE: INFO -->
-    <td width="55%" valign="top">
+    <td width="48%" valign="top">
       <div align="center">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF0000&center=true&vCenter=true&width=450&lines=Red+Team+Operator;ETHICAL+Hacker+%2F%2F+Security+Research;Mobile-First+Infrastructure" alt="Typing SVG" />
         <h3>ME🤫</h3>
@@ -16,29 +15,29 @@
       <br />
       <h3>// root@cipher:~# whoami</h3>
       <p>
-        Security Researcher focusing on Offensive Operations and AI-driven exploitations. I specialize in maximizing impact within constrained environments—running full-scale red team ops directly from mobile terminals. Hardware limitations are just another puzzle to solve.
+        Security Researcher focusing on Offensive Operations and AI-driven exploitations. I specialize in maximizing impact within constrained environments.
       </p>
       <ul>
-        <li><strong>Current Op:</strong> Automating reconnaissance pipelines.</li>
-        <li><strong>Architecture:</strong> Mobile-First / Termux / Cloud C2.</li>
-        <li><strong>Focus:</strong> Prompt Injection vectors & Network infiltration.</li>
+        <li><strong>Current Op:</strong> Automating reconnaissance.</li>
+        <li><strong>Architecture:</strong> Mobile-First / Termux.</li>
       </ul>
     </td>
-    <!-- RIGHT SIDE: GIF -->
-    <td width="55%" align="center" valign="top">
-    <br />
-    <img src="CIPHER_STUDIO.gif" width="100%" style="border-radius: 10px;" />
-    
-    <br /><br />
-    
-    <div align="left" style="font-size: 0.85em; color: #abb2bf; padding: 10px;">
-        <p><strong>🚀 Project Goal:</strong> Testing the boundaries of Gemini 3 models in security script generation.</p>
-        <p><strong>💡 Skill Demonstrated:</strong> Advanced Prompt Engineering to bypass standard AI guardrails for educational research.</p>
-        <p><strong>⚠️ Disclaimer:</strong> This script is for research only. Unauthorized use is prohibited.</p>
-    </div>
-</td>
+
+    <td width="52%" align="center" valign="top" style="background-color: rgba(255,0,0,0.05); border-radius: 15px; border: 1px solid #333;">
+      <br />
+      <img src="CIPHER_STUDIO.gif" width="100%" style="border-radius: 10px;" />
+      
+      <br /><br />
+      
+      <div align="left" style="font-size: 0.82em; color: #ffffff; padding: 15px; line-height: 1.6;">
+          <p><strong>🚀 Project Goal:</strong> Testing the boundaries of Gemini 3 models in security script generation.</p>
+          <p><strong>💡 Skill Demonstrated:</strong> Advanced Prompt Engineering to bypass standard AI guardrails for educational research.</p>
+          <p><strong>⚠️ Disclaimer:</strong> This script is for research only. Unauthorized use is prohibited.</p>
+      </div>
+    </td>
   </tr>
 </table>
+
 <!-- HEADER AND SPLIT LAYOUT END -->
 
 ---

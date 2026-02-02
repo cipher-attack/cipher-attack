@@ -3,7 +3,6 @@
   <tr>
     <td width="50%" valign="top" style="padding: 10px;">
       <div align="center">
-        <!-- LIVE TYPING HEADER -->
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FF0000&center=true&vCenter=true&width=380&lines=System+Initialized...;Target%3A+Mobile+Infrastructure;Vector%3A+Termux+%2F%2F+Kali+Chroot;Executing+Red+Team+Ops..." alt="Typing SVG" />
         <br/>
         <h3 style="color: #ffffff; margin-bottom: 5px;">UID: 0 (ROOT)</h3>
@@ -14,8 +13,6 @@
         </p>
         <img src="./key.svg" alt="Cipher Key" width="60" />
       </div>
-      
-      <!-- BIO SECTION -->
       <div style="background-color: rgba(0,0,0,0.9); padding: 15px; border-radius: 10px; border-left: 3px solid #FF0000; margin-top: 10px;">
         <h4 style="color: #FF0000; margin-top: 0; font-family: monospace;">// root@cipher:~# cat description.txt</h4>
         <p style="color: #dddddd; font-size: 13px; line-height: 1.5;">
@@ -28,14 +25,9 @@
         </ul>
       </div>
     </td>
-    
-    <!-- RIGHT COLUMN: VISUALS -->
     <td width="50%" align="center" valign="top" style="padding: 10px;">
-      <!-- PLACEHOLDER FOR ASCIINEMA OR GIF -->
       <img src="CIPHER_STUDIO.gif" width="100%" style="border-radius: 10px; box-shadow: 0 0 15px #FF0000; border: 1px solid #330000;" />
       <br/><br/>
-      
-      <!-- TERMUX INFRASTRUCTURE BOX -->
       <div style="background-color: #050505; border: 1px dashed #FF0000; border-radius: 5px; padding: 10px; text-align: left;">
         <p style="color: #ffffff; font-size: 11px; font-family: monospace; margin: 0 0 8px 0;">
           <span style="color: #FF0000;">>_</span> <b>Infrastructure:</b><br/>
@@ -65,15 +57,11 @@
 
 <hr/>
 
-<!-- METRICS & WAKATIME SECTION (THE EVIDENCE) -->
+<!-- METRICS & WAKATIME SECTION -->
 <h3 align="left">// INTELLIGENCE_FEED</h3>
 <div align="center">
-  
-  <!-- WAKATIME GRAPH (Requires WakaTime Action) -->
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=cipher-attack&theme=react-dark&layout=compact&hide_border=true&langs_count=8&display_format=time" alt="WakaTime Stats" />
   <br /><br />
-
-  <!-- MAIN GITHUB STATS -->
   <table align="center" border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td align="center">
@@ -84,15 +72,10 @@
       </td>
     </tr>
   </table>
-
-  <!-- 3D SNAKE ANIMATION (Requires Snake Action) -->
   <br />
   <h4 align="center" style="color: #FF0000;">// CONTRIBUTION_GRID [ACTIVE]</h4>
   <img src="https://github.com/cipher-attack/cipher-attack/blob/output/github-contribution-grid-snake.svg" width="100%" alt="Snake Animation" />
-
   <br />
-  
-  <!-- ARSENAL BADGES -->
   <p align="center">
       <img src="https://img.shields.io/badge/Kali_Linux-000000?style=flat-square&logo=kali-linux&logoColor=FF0000" />
       <img src="https://img.shields.io/badge/Termux-000000?style=flat-square&logo=android&logoColor=FF0000" />
@@ -100,7 +83,6 @@
       <img src="https://img.shields.io/badge/Bash-000000?style=flat-square&logo=gnu-bash&logoColor=FF0000" />
       <img src="https://img.shields.io/badge/Metasploit-000000?style=flat-square&logo=metasploit&logoColor=FF0000" />
   </p>
-
   <code>CORE_STRENGTH: OFFSEC</code> | <code>STATUS: ONLINE</code>
 </div>
 

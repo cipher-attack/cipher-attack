@@ -1,3 +1,4 @@
+<html>
 <table width="100%" border="0" cellspacing="0" cellpadding="0" background="https://user-images.githubusercontent.com/25091929/134954737-1e523f66-86d7-400d-83f0-482438b472e3.gif" style="background-image: url('https://user-images.githubusercontent.com/25091929/134954737-1e523f66-86d7-400d-83f0-482438b472e3.gif'); background-size: cover; background-position: center; border-radius: 10px; color: #ffffff;">
   <tr>
     <td style="padding: 15px;">

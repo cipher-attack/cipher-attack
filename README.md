@@ -17,7 +17,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100%" />
+  <img src="CIPHER_STUDIO.gif" width="100%" style="border-radius: 10px;" />
 </div>
 ---
 

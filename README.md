@@ -1,5 +1,6 @@
 <!-- HEADER AND SPLIT LAYOUT START -->
-<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<!-- Galaxy Background applied here -->
+<table border="0" width="100%" cellspacing="0" cellpadding="0" background="https://user-images.githubusercontent.com/25091929/134954737-1e523f66-86d7-400d-83f0-482438b472e3.gif" style="background-image: url('https://user-images.githubusercontent.com/25091929/134954737-1e523f66-86d7-400d-83f0-482438b472e3.gif'); background-size: cover; border-radius: 10px; overflow: hidden;">
   <tr>
     <!-- LEFT SIDE: INFO -->
     <td width="55%" valign="top">
@@ -9,50 +10,45 @@
         <h1><kbd> C I P H E R </kbd></h1>
         <p>
           <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-000000?style=for-the-badge&labelColor=000000&color=FF0000" alt="Status" />
-          <img src="https://img.shields.io/badge/FOCUS-OFFSEC-000?style=for-the-badge&labelColor=000000&color=FF0000" alt="Focus" />
+          <img src="https://img.shields.io/badge/FOCUS-OFFSEC-000000?style=for-the-badge&labelColor=000000&color=FF0000" alt="Focus" />
         </p>
         <img src="./key.svg" alt="Cipher Key" width="80" />
       </div>
       <br />
-      <h3>// root@cipher:~# whoami</h3>
-      <p>
-        Security Researcher focusing on Offensive Operations and AI-driven exploitations. I specialize in maximizing impact within constrained environments—running full-scale red team ops directly from mobile terminals. Hardware limitations are just another puzzle to solve.
-      </p>
-      <ul>
-        <li><strong>Current Op:</strong> Automating reconnaissance pipelines.</li>
-        <li><strong>Architecture:</strong> Mobile-First / Termux / Cloud C2.</li>
-        <li><strong>Focus:</strong> Prompt Injection vectors & Network infiltration.</li>
-      </ul>
+      <!-- Text container with slight background for readability over galaxy -->
+      <div style="background-color: rgba(0,0,0,0.6); padding: 10px; border-radius: 8px;">
+        <h3>// root@cipher:~# whoami</h3>
+        <p>
+          Security Researcher focusing on Offensive Operations and AI-driven exploitations. I specialize in maximizing impact within constrained environments—running full-scale red team ops directly from mobile terminals. Hardware limitations are just another puzzle to solve.
+        </p>
+        <ul>
+          <li><strong>Current Op:</strong> Automating reconnaissance pipelines.</li>
+          <li><strong>Architecture:</strong> Mobile-First / Termux / Cloud C2.</li>
+          <li><strong>Focus:</strong> Prompt Injection vectors & Network infiltration.</li>
+        </ul>
+      </div>
     </td>
-    
-    <!-- RIGHT SIDE: GIF & RESEARCH NOTES -->
+    <!-- RIGHT SIDE: GIF AND NEW TEXT -->
     <td width="45%" align="center" valign="middle">
       <br />
-      <!-- GIF with Glow Effect -->
-      <img src="CIPHER_STUDIO.gif" width="100%" style="border-radius: 8px; box-shadow: 0px 0px 20px rgba(255, 0, 0, 0.3);" />
+      <img src="CIPHER_STUDIO.gif" width="100%" style="border-radius: 10px; box-shadow: 0 0 10px #FF0000;" />
       
-      <!-- NEW RESEARCH SECTION START (Added without removing any logic) -->
-      <div align="left">
-        <br />
-        <code>>> RESEARCH_LOG_ENTRY:</code>
-        <br /><br />
-        <p>
-           🧪 <strong>Testing the boundaries of AI models</strong> (Gemini all models) in security script generation.
+      <!-- ADDED SECTION START -->
+      <div align="left" style="margin-top: 15px; font-family: monospace; font-size: 11px; background-color: rgba(10, 10, 10, 0.85); padding: 12px; border-left: 2px solid #FF0000; border-radius: 4px; color: #e6e6e6;">
+        <p style="margin: 0 0 8px 0;">
+          <span style="color: #FF0000;">></span> <strong>Experiment:</strong><br/>
+          Testing the boundaries of AI models (Gemini all models) in security script generation.
         </p>
-        <p>
-           🔓 <strong>Skill Demonstrated:</strong> Advanced Prompt Engineering to bypass standard AI guardrails for educational research.
+        <p style="margin: 0 0 8px 0;">
+          <span style="color: #FF0000;">></span> <strong>Skill Demonstrated:</strong><br/>
+          Advanced Prompt Engineering to bypass standard AI guardrails for educational research.
         </p>
-        
-        <br />
-        
-        <!-- WARNING / DISCLAIMER BADGE -->
-        <img src="https://img.shields.io/badge/⚠️ DISCLAIMER-RESEARCH ONLY-FF0000?style=for-the-badge&logo=shield" width="100%" />
-        <p align="center">
-            <sub style="color: grey;">Unauthorized use is prohibited.</sub>
+        <p style="margin: 0; font-size: 10px; color: #ff5555; opacity: 0.9;">
+          ⚠️ <strong>Disclaimer:</strong> This script is for research only. Unauthorized use is prohibited.
         </p>
       </div>
-      <!-- NEW RESEARCH SECTION END -->
-      
+      <!-- ADDED SECTION END -->
+
     </td>
   </tr>
 </table>

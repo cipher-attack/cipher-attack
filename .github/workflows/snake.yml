@@ -1,36 +1,32 @@
-name: Generate Elite Snake
+name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
+    # በየ 12 ሰዓቱ ይሽከረከራል
+    - cron: "0 */12 * * *" 
+  
+  workflow_dispatch: # በእጅ ማስጀመር እንዲቻል
 
 jobs:
-  generate:
-    permissions:
-      contents: write
+  build:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
-    
     steps:
-      - name: generate-snake-game-from-github-contribution-grid
-        uses: Platane/snk/svg-only@v3
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Generate Snake
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/snake.svg
-            dist/snake-dark.svg?color_snake=#FF0000&color_dots=#0d1117,#330000,#660000,#990000,#cc0000,#ff0000&speed=10&snakes=#FF0000
-            
-      - name: push to output branch
-        uses: crazy-max/ghaction-github-pages@v4
+            dist/github-contribution-grid-snake.svg?palette=github-dark&color_snake=#ffffff&color_dots=#161b22,#3c0404,#7f0a0a,#bd1515,#ff0000
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Push to Output Branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
-          author: Cipher-Bot <bot@cipher-attack.com>
-          committer: Cipher-Bot <bot@cipher-attack.com>
-          commit_message: "sys: update snake assets [skip ci]"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

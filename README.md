@@ -62,7 +62,8 @@
 ​``
 ``
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=cipher-attack&theme=react-dark&layout=compact&hide_border=true&langs_count=8&display_format=time" alt="WakaTime Stats" />
+  <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
   <br /><br />
   <table align="center" border="0" cellspacing="0" cellpadding="0">
     <tr>

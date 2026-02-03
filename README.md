@@ -61,8 +61,10 @@
 <h3 align="left">// INTELLIGENCE_FEED</h3>
 <div align="center">
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
-
+  <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=cipher-attack&color=ff0000&style=flat-square&label=NET_TRAFFIC" alt="Profile Views" />
+</div>
+  
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-131-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-456.25%20thousand%20lines%20of%20code-blue?style=flat)

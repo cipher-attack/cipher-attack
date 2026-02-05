@@ -5,11 +5,11 @@
       <div align="center">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FF0000&center=true&vCenter=true&width=380&lines=System+Initialized...;Target%3A+Mobile+Infrastructure;Vector%3A+Termux+%2F%2F+Kali+Chroot;Executing+Red+Team+Ops..." alt="Typing SVG" />
         <br/>
-        <h3 style="color: #ffffff; margin-bottom: 5px;">UID: 0 (ROOT)</h3>
+        <h3 style="color: #ffffff; margin-bottom: 5px;">whoami</h3>
         <h1 style="margin-top: 0;"><kbd style="background-color: #000; color: #FF0000; border: 1px solid #FF0000; padding: 5px; border-radius: 5px;"> C I P H E R </kbd></h1>
         <p>
-          <img src="https://img.shields.io/badge/NET-UNDETECTED-000000?style=for-the-badge&labelColor=000000&color=FF0000" alt="Status" />
-          <img src="https://img.shields.io/badge/SHELL-ZSH%2FTERMUX-000000?style=for-the-badge&labelColor=000000&color=FF0000" alt="Focus" />
+          <img src="https://img.shields.io/badge/NET-undetected-000000?style=for-the-badge&labelColor=000000&color=FF0000" alt="Status" />
+          <img src="https://img.shields.io/badge/SHELL-zsh%2Ftermux-000000?style=for-the-badge&labelColor=000000&color=FF0000" alt="Focus" />
         </p>
         <img src="./key.svg" alt="Cipher Key" width="60" />
       </div>

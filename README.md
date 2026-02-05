@@ -16,7 +16,7 @@
       <div style="background-color: rgba(0,0,0,0.9); padding: 15px; border-radius: 10px; border-left: 3px solid #FF0000; margin-top: 10px;">
         <h4 style="color: #FF0000; margin-top: 0; font-family: monospace;">// root@cipher:~# cat description.txt</h4>
         <p style="color: #dddddd; font-size: 13px; line-height: 1.5;">
-          Red Team Operator specializing in <b>Mobile-First Offensive Security</b>. I don't rely on heavy rigs; I deploy full-scale attack vectors directly from a handheld terminal. By leveraging <b>Termux</b> and custom chroot environments, I turn standard mobile hardware into a weaponized C2 node.
+          red teamer focusing on <b>Mobile-First Offensive Security</b>. honestly, forget the heavy rigs.. i'm just deploying full attack vectors straight from my phone. by leveraging <b>Termux</b> & some custom chroot environments, i basically flip standard mobile hardware into a weaponized C2 node.
         </p>
         <ul style="color: #dddddd; font-size: 12px; padding-left: 20px;">
           <li><b>Arch:</b> AArch64 / Proot Distro / Nethunter.</li>

@@ -30,16 +30,17 @@
       <br/><br/>
       <div style="background-color: #050505; border: 1px dashed #FF0000; border-radius: 5px; padding: 10px; text-align: left;">
         <p style="color: #ffffff; font-size: 11px; font-family: monospace; margin: 0 0 8px 0;">
-          <span style="color: #FF0000;">>_</span> <b>Infrastructure:</b><br/>
-          Running a headless Kali Linux environment inside Android user-space. 0% Cloud dependency. 100% Local execution.
+          <span style="color: #FF0000;">>_</span> <b>Infra:</b><br/>
+          basically running a headless kali setup inside android user-space. no cloud, no bs—everything is 100% Local execution.
         </p>
         <p style="color: #ffffff; font-size: 11px; font-family: monospace; margin: 0 0 8px 0;">
-          <span style="color: #FF0000;">>_</span> <b>Tactical Edge:</b><br/>
-          "The most dangerous computer is the one currently in your pocket."
+          <span style="color: #FF0000;">>_</span> <b>Talk:</b><br/>
+          honestly, the most dangerous computer is the one you’ve got in your pocket right now.
         </p>
         <hr style="border-color: #333;" />
         <p style="color: #ff4444; font-size: 10px; font-family: monospace; margin: 0; font-style: italic;">
-          ⚠️ Warning: "Authorized Personnel Only. System Monitored."
+          ​!! heads up:
+authorized access only. i’m watching the logs, so stay out.
         </p>
       </div>
     </td>

@@ -140,7 +140,7 @@ Kotlin                   3 repos             ███░░░░░░░░�
     </tr>
   </table>
   <br />
-  <h4 align="center" style="color: #FF0000;">// CONTRIBUTION_GRID [ACTIVE]</h4>
+  <h4 align="center" style="color: #FF0000;">>_contrubtion s</h4>
   <img src="https://github.com/cipher-attack/cipher-attack/blob/output/github-contribution-grid-snake.svg" width="100%" alt="Snake Animation" />
   <br />
   <p align="center">
@@ -156,7 +156,7 @@ Kotlin                   3 repos             ███░░░░░░░░�
 <hr/>
 
 <!-- FOOTER CONNECT -->
-<h3 align="left">// ENCRYPTED_CHANNELS</h3>
+<h3 align="left">>_JOIN ME..</h3>
 <div align="center">
 <a href="https://x.com/Cipher_attacks"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=FF0000" alt="X" /></a>
 &nbsp;

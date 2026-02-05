@@ -50,7 +50,7 @@ authorized access only. i’m watching the logs, so stay out.
 <br/>
 
 <!-- MISSION SECTION -->
-<h3 align="left"> <img src="https://media.giphy.com/media/iIYJCmUe8taRw1tVRf/giphy.gif" width="30"> Operational Scope</h3>
+<h3 align="left"> <img src="https://media.giphy.com/media/iIYJCmUe8taRw1tVRf/giphy.gif" width="30"> current_focus </h3>
 <p align="left">
   doing some <b>vulnerability research</b> and <b>exploit dev</b> on the side. basically scanning targets, sniffing packets, and just automating payloads for fun. this profile is where i track my tools and activity while building stuff for the offensive security community.
 </p>
@@ -58,7 +58,7 @@ authorized access only. i’m watching the logs, so stay out.
 <hr/>
 
 <!-- METRICS & WAKATIME SECTION -->
-<h3 align="left">// INTELLIGENCE_FEED</h3>
+<h3 align="left">>_LIVE_logs</h3>
 <div align="center">
 
   

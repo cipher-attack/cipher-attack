@@ -167,5 +167,7 @@ Kotlin                   3 repos             ███░░░░░░░░�
 <a href="https://github.com/cipher-attack"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF0000" alt="GitHub" /></a>
 
 <br /><br />
-<strong>"The system isn't broken. It was built this way. I just found the door."</strong>
+<div style="font-family: monospace; color: #888; font-size: 13px; text-align: center; margin-top: 20px;">
+  the system isn't really broken.. it was just built this way. i just happened to find the door.
 </div>
+

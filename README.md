@@ -52,8 +52,7 @@ authorized access only. i’m watching the logs, so stay out.
 <!-- MISSION SECTION -->
 <h3 align="left"> <img src="https://media.giphy.com/media/iIYJCmUe8taRw1tVRf/giphy.gif" width="30"> Operational Scope</h3>
 <p align="left">
-  <strong>Vulnerability Research & Exploit Development.</strong>
-  Scanning targets, analyzing packets, and automating payloads. This profile tracks my activity across different repositories as I build tools for the offensive security community.
+  doing some <b>vulnerability research</b> and <b>exploit dev</b> on the side. basically scanning targets, sniffing packets, and just automating payloads for fun. this profile is where i track my tools and activity while building stuff for the offensive security community.
 </p>
 
 <hr/>

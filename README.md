@@ -18,10 +18,10 @@
         <p style="color: #dddddd; font-size: 13px; line-height: 1.5;">
           red teamer focusing on <b>Mobile-First Offensive Security</b>. honestly, forget the heavy rigs.. i'm just deploying full attack vectors straight from my phone. by leveraging <b>Termux</b> & some custom chroot environments, i basically flip standard mobile hardware into a weaponized C2 node.
         </p>
-        <ul style="color: #dddddd; font-size: 12px; padding-left: 20px;">
-          <li><b>Arch:</b> AArch64 / Proot Distro / Nethunter.</li>
-          <li><b>Stealth:</b> Cellular egress & gray-man tactics.</li>
-          <li><b>Code:</b> Python automation for air-gapped extraction.</li>
+               <ul style="color: #dddddd; font-size: 12px; padding-left: 20px;">
+          <li>running on <b>AArch64</b> via proot-distro/nethunter.</li>
+          <li>mostly focused on <b>Cellular egress</b> & gray-man tactics to stay under the radar.</li>
+          <li>plus, i use <b>Python</b> for all my air-gapped extraction automation.</li>
         </ul>
       </div>
     </td>

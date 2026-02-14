@@ -63,42 +63,42 @@ authorized access only. i’m watching the logs, so stay out.
 
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-48%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2059%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-284-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-283-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-457.00%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-457.37%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 22.2 kB Used in GitHub's Storage 
+> 📦 22.3 kB Used in GitHub's Storage 
  > 
-> 🏆 1,345 Contributions in the Year 2026
+> 🏆 1,378 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 23 Public Repositories 
+> 📜 24 Public Repositories 
  > 
 > 🔑 16 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                183 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
-🌆 Daytime                909 commits         █████████░░░░░░░░░░░░░░░░   36.91 % 
-🌃 Evening                743 commits         ████████░░░░░░░░░░░░░░░░░   30.17 % 
-🌙 Night                  628 commits         ██████░░░░░░░░░░░░░░░░░░░   25.50 % 
+🌞 Morning                195 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
+🌆 Daytime                928 commits         █████████░░░░░░░░░░░░░░░░   37.21 % 
+🌃 Evening                743 commits         ███████░░░░░░░░░░░░░░░░░░   29.79 % 
+🌙 Night                  628 commits         ██████░░░░░░░░░░░░░░░░░░░   25.18 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   488 commits         █████░░░░░░░░░░░░░░░░░░░░   19.81 % 
-Tuesday                  343 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
-Wednesday                282 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
-Thursday                 290 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
-Friday                   430 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
-Saturday                 271 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
-Sunday                   359 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+Monday                   488 commits         █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
+Tuesday                  343 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
+Wednesday                282 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
+Thursday                 290 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+Friday                   461 commits         █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
+Saturday                 271 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
+Sunday                   359 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
 ```
 
 
@@ -106,17 +106,19 @@ Sunday                   359 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Vim Script               0 secs              █████████████████████████   100.00 % 
+C                        1 hr 8 mins         ███████████████████████░░   92.25 % 
+Other                    4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
+Vim Script               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               10 repos            █████████░░░░░░░░░░░░░░░░   34.48 % 
-Python                   6 repos             █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
-HTML                     5 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
-JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-Kotlin                   3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+TypeScript               10 repos            ████████░░░░░░░░░░░░░░░░░   33.33 % 
+Python                   6 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+HTML                     5 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Kotlin                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
 ```
 
 
@@ -126,7 +128,7 @@ Kotlin                   3 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/cipher-attack/cipher-attack/main/assets/bar_graph.png)
 
 
- Last Updated on 13/02/2026 02:10:24 UTC
+ Last Updated on 14/02/2026 01:58:58 UTC
 <!--END_SECTION:waka-->
   <br /><br />
   <table align="center" border="0" cellspacing="0" cellpadding="0">

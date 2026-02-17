@@ -65,13 +65,13 @@ authorized access only. i’m watching the logs, so stay out.
   <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%204%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-159-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-153-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-457.59%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 22.4 kB Used in GitHub's Storage 
+> 📦 22.5 kB Used in GitHub's Storage 
  > 
 > 🏆 1,395 Contributions in the Year 2026
  > 
@@ -106,9 +106,8 @@ Sunday                   370 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C                        1 hr 20 mins        ███████████████████████░░   93.32 % 
-Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
-Vim Script               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+C                        1 hr 20 mins        ████████████████████████░   94.24 % 
+Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -128,7 +127,7 @@ Kotlin                   3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/cipher-attack/cipher-attack/main/assets/bar_graph.png)
 
 
- Last Updated on 16/02/2026 02:05:44 UTC
+ Last Updated on 17/02/2026 02:03:23 UTC
 <!--END_SECTION:waka-->
   <br /><br />
   <table align="center" border="0" cellspacing="0" cellpadding="0">

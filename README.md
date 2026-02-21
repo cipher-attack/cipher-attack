@@ -65,7 +65,7 @@ authorized access only. i’m watching the logs, so stay out.
   <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2031%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-459.10%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -106,8 +106,7 @@ Sunday                   370 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C                        1 hr 47 mins        ████████████████████████░   95.64 % 
-Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
+C                        39 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -127,7 +126,7 @@ Kotlin                   3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/cipher-attack/cipher-attack/main/assets/bar_graph.png)
 
 
- Last Updated on 20/02/2026 02:01:32 UTC
+ Last Updated on 21/02/2026 01:56:37 UTC
 <!--END_SECTION:waka-->
   <br /><br />
   <table align="center" border="0" cellspacing="0" cellpadding="0">

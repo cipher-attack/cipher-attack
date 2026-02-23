@@ -106,7 +106,7 @@ Sunday                   404 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C                        51 mins             █████████████████████████   100.00 % 
+C                        27 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -126,7 +126,7 @@ Kotlin                   3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/cipher-attack/cipher-attack/main/assets/bar_graph.png)
 
 
- Last Updated on 22/02/2026 02:05:37 UTC
+ Last Updated on 23/02/2026 02:06:49 UTC
 <!--END_SECTION:waka-->
   <br /><br />
   <table align="center" border="0" cellspacing="0" cellpadding="0">

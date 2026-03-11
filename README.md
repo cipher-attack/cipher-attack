@@ -8,8 +8,8 @@
         <h3 style="color: #ffffff; margin-bottom: 5px;">~/.ωнσαмι</h3>
         <h1 style="margin-top: 0;"><kbd style="background-color: #000; color: #FF0000; border: 1px solid #FF0000; padding: 5px; border-radius: 5px;"> C I P H E R </kbd></h1>
         <p>
-          <img src="https://img.shields.io/badge/NET-undetected-000000?style=for-the-badge&labelColor=000000&color=FF0000" alt="Status" />
-          <img src="https://img.shields.io/badge/SHELL-zsh%2Ftermux-000000?style=for-the-badge&labelColor=000000&color=FF0000" alt="Focus" />
+          <img src="https://img.shields.io/badge/RED_TEAM-ACCESS_GRANTED-000000?style=for-the-badge&logo=kali-linux&logoColor=FF0000&labelColor=000000&color=FF0000" alt="RedTeam" />
+          <img src="https://img.shields.io/badge/CORE_SHELL-SYSTEM_ROOT-000000?style=for-the-badge&logo=termux&logoColor=FF0000&labelColor=000000&color=FF0000" alt="Shell" />
         </p>
         <img src="./key.svg" alt="Cipher Key" width="60" />
       </div>
@@ -140,6 +140,9 @@ Kotlin                   3 repos             ██░░░░░░░░░�
     </tr>
   </table>
   <br />
+  
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cipher-attack&theme=github_dark)
+
   <h4 align="center" style="color: #FF0000;">>_му_α¢тινιту's</h4>
   <img src="https://github.com/cipher-attack/cipher-attack/blob/output/github-contribution-grid-snake.svg" width="100%" alt="Snake Animation" />
   <br />

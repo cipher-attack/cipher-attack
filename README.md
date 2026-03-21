@@ -7,10 +7,7 @@
   <h3 style="color: #ffffff; margin-bottom: 5px;">~/.ωнσαмι</h3>
   <h1 style="margin-top: 0;"><kbd style="background-color: #000; color: #FF0000; border: 1px solid #FF0000; padding: 5px; border-radius: 5px;"> C I P H E R </kbd></h1>
   
-  <p>
-    <img src="https://img.shields.io/badge/RED_TEAM-ACCESS_GRANTED-000000?style=for-the-badge&logo=kali-linux&logoColor=FF0000&labelColor=000000&color=FF0000" alt="RedTeam" />
-    <img src="https://img.shields.io/badge/CORE_SHELL-SYSTEM_ROOT-000000?style=for-the-badge&logo=termux&logoColor=FF0000&labelColor=000000&color=FF0000" alt="Shell" />
-  </p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1500&color=FF0000&background=0A0A0A&border=1px+solid+330000&borderRadius=5&center=true&vCenter=true&width=380&height=40&lines=%3E_+RED_TEAM%3A+ACCESS_GRANTED...;%3E_+CORE_SHELL%3A+SYSTEM_ROOT...;%3E_+BYPASSING_MAINFRAME..." alt="Animated Hacker Badge" style="box-shadow: 0 0 10px rgba(255,0,0,0.3);" />
   
   <!-- VISITOR BADGE MOVED UP FOR CLEANER LOOK -->
   <img src="https://komarev.com/ghpvc/?username=cipher-attack&label=ACTIVE_CONNECTIONS&color=FF0000&style=for-the-badge&background=000000" alt="Visitor Badge" />

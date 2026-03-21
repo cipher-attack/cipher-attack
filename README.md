@@ -140,7 +140,9 @@ Dart                     1 repo              █░░░░░░░░░░�
     </tr>
   </table>
   <br />
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=cipher-attack&theme=telegram-gradient&card_width=600&card_height=100" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=cipher-attack&background=transparent&hide_border=true&ring=FF0000&fire=FF0000&currStreakLabel=ffffff&currStreakNum=FF0000&sideNums=ffffff&sideLabels=ffffff&dates=cccccc" alt="GitHub Streak" />
+          </a>
   
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cipher-attack&theme=github_dark)
 

@@ -1,10 +1,7 @@
 name: Metrics
 on:
-  # በየቀኑ ከሌሊቱ 6 ሰዓት ላይ ራሱን Update እንዲያደርግ
   schedule: [{cron: "0 0 * * *"}]
-  # አንተ ራስህ በፈለግከው ሰዓት Run ለማድረግ እንዲያስችልህ
   workflow_dispatch:
-  # ዋናው ፋይልህ ላይ ለውጥ ስታደርግ Run እንዲያደርግ
   push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
@@ -12,27 +9,39 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      # 1. አዲሱ አጭር Terminal
+      - name: Terminal Metrics
+        uses: lowlighter/metrics@latest
         with:
+          filename: metrics.terminal.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          
-          # ያንተን የ GitHub ስም እዚህ አስገባ
           user: cipher-attack
-          
-          # ለአንተ ፕሮፋይል የሚስማማው የ Terminal ዲዛይን (Hacker Vibe)
           template: terminal
-          base: header, metadata, activity, community, repositories
+          base: header, metadata
           config_timezone: Africa/Addis_Ababa
-          
-          # ፕሮግራም የምትጽፍባቸውን ቋንቋዎች (Languages) ለማሳየት
-          plugin_languages: yes
-          plugin_languages_colors: github
-          plugin_languages_limit: 8
-          plugin_languages_recent_days: 14
-          plugin_languages_sections: most-used
-          
-          # Wakatime stats (Wakatime token ካስገባህ ይሄን ማብራት ትችላለህ)
-          # plugin_wakatime: yes
-          # plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
-          # plugin_wakatime_days: 7
-          # plugin_wakatime_sections: time, languages, os
+
+      # 2. የ Habits እና ካርታው ፎቶ
+      - name: Habits and Map
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.habits.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: cipher-attack
+          template: classic
+          base: ""
+          config_timezone: Africa/Addis_Ababa
+          plugin_habits: yes
+          plugin_habits_charts: yes
+          plugin_habits_facts: no
+
+      # 3. ה- 3D Isometric Calendar
+      - name: 3D Isometric Calendar
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.isocalendar.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: cipher-attack
+          template: classic
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year

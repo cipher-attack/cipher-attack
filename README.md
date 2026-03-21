@@ -39,13 +39,17 @@
         </p>
         <hr style="border-color: #333;" />
         <p style="color: #ff4444; font-size: 10px; font-family: monospace; margin: 0; font-style: italic;">
-          ​!! нєα∂ѕ υρ:
-authorized access only. i’m watching the logs, so stay out.
+          ​!! нєα∂ѕ υρ: authorized access only. i’m watching the logs, so stay out.
         </p>
       </div>
     </td>
   </tr>
 </table>
+
+<div align="center" style="margin-top: 15px;">
+  <!-- PRO ELEMENT 3: Active Connection Logger -->
+  <img src="https://komarev.com/ghpvc/?username=cipher-attack&label=ACTIVE_CONNECTIONS&color=FF0000&style=for-the-badge&background=000000" alt="Visitor Badge" />
+</div>
 
 <br/>
 
@@ -55,41 +59,67 @@ authorized access only. i’m watching the logs, so stay out.
   doing some <b>vulnerability research</b> and <b>exploit dev</b> on the side. basically scanning targets, sniffing packets, and just automating payloads for fun. this profile is where i track my tools and activity while building stuff for the offensive security community.
 </p>
 
-<hr/>
+<hr style="border-color: #330000;"/>
 
-<!-- METRICS & STATS SECTION -->
-<h3 align="left">>_ℓινє_ℓσgѕ</h3>
+<!-- METRICS & ADVANCED STATS SECTION -->
+<h3 align="left" style="color: #FF0000;">>_ѕуѕтєм_мєтяι¢ѕ</h3>
 <div align="center">
 
-  <!-- FIXED TERMINAL METRICS (Simplified URL to prevent timeout) -->
-  <img src="https://metrics.lecoq.io/cipher-attack?template=terminal" width="100%" alt="Metrics Terminal" />
+  <!-- 1. COMPACT TERMINAL (Shortened, No Redundancy) -->
+  <img src="https://metrics.lecoq.io/cipher-attack?template=terminal&base=header%2Cmetadata&theme=dark" width="80%" alt="Metrics Terminal" style="border-radius: 8px; box-shadow: 0px 0px 15px rgba(255,0,0,0.15);" />
   
   <br /><br />
   
-  <table align="center" border="0" cellspacing="0" cellpadding="0">
+  <!-- 2. HABITS & MAP (Timezone Map + Coding Hours) -->
+  <img src="https://metrics.lecoq.io/cipher-attack?template=classic&base=0&plugin_habits=yes&plugin_habits_charts=yes&plugin_habits_facts=no&config_timezone=Africa%2FAddis_Ababa&theme=dark" width="80%" alt="Habits Map" style="border-radius: 8px; box-shadow: 0px 0px 15px rgba(255,0,0,0.15);" />
+
+  <br /><br />
+  
+  <!-- 3. 3D ISOMETRIC CALENDAR (Contributions in 3D) -->
+  <img src="https://metrics.lecoq.io/cipher-attack?template=classic&base=0&plugin_isocalendar=yes&plugin_isocalendar_duration=half-year&theme=dark" width="80%" alt="3D Isometric Calendar" style="border-radius: 8px; box-shadow: 0px 0px 15px rgba(255,0,0,0.15);" />
+
+</div>
+  
+<br /><br />
+  
+<!-- 4. Unified Dashboard Grid (Stats Cards) -->
+<div align="center">
+  <table align="center" border="0" cellspacing="0" cellpadding="0" width="90%">
     <tr>
-      <td align="center">
-        <!-- FIXED: Changed background to pure black (000000) and used official Vercel API -->
+      <td align="center" width="50%" valign="top">
         <img src="https://github-readme-stats.vercel.app/api?username=cipher-attack&show_icons=true&hide_border=true&bg_color=000000&title_color=ff0000&icon_color=ff0000&text_color=ffffff&count_private=true&include_all_commits=true" width="100%" />
       </td>
-      <td align="center">
-        <!-- FIXED: Changed background to pure black (000000) and used official Vercel API -->
+      <td align="center" width="50%" valign="top">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cipher-attack&layout=compact&hide_border=true&bg_color=000000&title_color=FF0000&text_color=ffffff&icon_color=FF0000&count_private=true" width="100%" />
       </td>
     </tr>
+    <tr>
+      <td align="center" colspan="2" valign="top" style="padding-top: 15px;">
+        <a href="https://git.io/streak-stats">
+          <img src="https://github-readme-streak-stats.herokuapp.com?user=cipher-attack&background=00000000&hide_border=true&ring=FF0000&fire=FF0000&currStreakLabel=ffffff&currStreakNum=FF0000&sideNums=ffffff&sideLabels=ffffff&dates=cccccc" width="80%" alt="GitHub Streak" />
+        </a>
+      </td>
+    </tr>
   </table>
-  <br />
-  
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=cipher-attack&background=00000000&hide_border=true&ring=FF0000&fire=FF0000&currStreakLabel=ffffff&currStreakNum=FF0000&sideNums=ffffff&sideLabels=ffffff&dates=cccccc" alt="GitHub Streak" />
-  </a>
-  
-  <br/><br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cipher-attack&theme=github_dark" alt="Profile Summary" />
+</div>
 
-  <h4 align="center" style="color: #FF0000; margin-top: 30px;">>_му_α¢тινιту's</h4>
-  <img src="https://github.com/cipher-attack/cipher-attack/blob/output/github-contribution-grid-snake.svg" width="100%" alt="Snake Animation" />
-  <br />
+<br/><br/>
+
+<!-- PRO ELEMENT 4: Hacker Trophies -->
+<h4 align="center" style="color: #FF0000;">>_α¢нιєνємєит_ℓσgѕ</h4>
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=cipher-attack&theme=onedark&no-frame=true&no-bg=true&margin-w=15&column=6" alt="Trophies" />
+  </a>
+</div>
+
+<br/>
+
+<!-- PRO ELEMENT 5: Clean Activity Section (Snake Animation) -->
+<h4 align="center" style="color: #FF0000; margin-top: 20px;">>_му_α¢тινιту_иєтωσяк</h4>
+<div align="center">
+  <img src="https://github.com/cipher-attack/cipher-attack/blob/output/github-contribution-grid-snake.svg" width="90%" alt="Snake Animation" />
+  <br /><br />
   <p align="center">
       <img src="https://img.shields.io/badge/Kali_Linux-000000?style=flat-square&logo=kali-linux&logoColor=FF0000" />
       <img src="https://img.shields.io/badge/Termux-000000?style=flat-square&logo=android&logoColor=FF0000" />
@@ -100,7 +130,7 @@ authorized access only. i’m watching the logs, so stay out.
   <code>CORE_STRENGTH: OFFSEC</code> | <code>ˢᵗᵃᵗᵘˢ: 𝖔𝖓𝖑𝖎𝖓𝖊</code>
 </div>
 
-<hr/>
+<hr style="border-color: #330000;"/>
 
 <!-- FOOTER CONNECT -->
 <h3 align="left">>_ᥴꪮꪮꪑ𝘴..</h3>

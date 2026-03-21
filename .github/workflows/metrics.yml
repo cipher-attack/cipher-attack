@@ -9,8 +9,8 @@ jobs:
     permissions:
       contents: write
     steps:
-      # 1. አዲሱ አጭር Terminal
-      - name: Terminal Metrics
+      # 1. አዲሱ Terminal (ቋንቋዎችንም ያካትታል)
+      - name: Terminal with Languages
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.terminal.svg
@@ -18,23 +18,12 @@ jobs:
           user: cipher-attack
           template: terminal
           base: header, metadata
+          plugin_languages: yes
+          plugin_languages_colors: github
+          plugin_languages_limit: 6
           config_timezone: Africa/Addis_Ababa
 
-      # 2. የ Habits እና ካርታው ፎቶ
-      - name: Habits and Map
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.habits.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: cipher-attack
-          template: classic
-          base: ""
-          config_timezone: Africa/Addis_Ababa
-          plugin_habits: yes
-          plugin_habits_charts: yes
-          plugin_habits_facts: no
-
-      # 3. ה- 3D Isometric Calendar
+      # 2. 3D Isometric Calendar
       - name: 3D Isometric Calendar
         uses: lowlighter/metrics@latest
         with:
@@ -45,3 +34,32 @@ jobs:
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
+          theme: dark
+
+      # 3. Lines of Code History (System Monitor)
+      - name: Lines of Code
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.lines.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: cipher-attack
+          template: classic
+          base: ""
+          plugin_lines: yes
+          plugin_lines_history_limit: 1
+          plugin_lines_repositories_limit: 4
+          theme: dark
+
+      # 4. GitHub Achievements (Replacing Trophies)
+      - name: Hacker Achievements
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.achievements.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: cipher-attack
+          template: classic
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: C
+          theme: dark

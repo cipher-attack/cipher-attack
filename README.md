@@ -57,96 +57,37 @@ authorized access only. i’m watching the logs, so stay out.
 
 <hr/>
 
-<!-- METRICS & WAKATIME SECTION -->
+<!-- METRICS & STATS SECTION -->
 <h3 align="left">>_ℓινє_ℓσgѕ</h3>
 <div align="center">
 
+  <!-- FIXED TERMINAL METRICS (Simplified URL to prevent timeout) -->
+  <img src="https://metrics.lecoq.io/cipher-attack?template=terminal" width="100%" alt="Metrics Terminal" />
   
-  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2034%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-476.07%20thousand%20lines%20of%20code-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 25.8 kB Used in GitHub's Storage 
- > 
-> 🏆 1,854 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 28 Public Repositories 
- > 
-> 🔑 21 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                281 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
-🌆 Daytime                1021 commits        █████████░░░░░░░░░░░░░░░░   35.09 % 
-🌃 Evening                890 commits         ████████░░░░░░░░░░░░░░░░░   30.58 % 
-🌙 Night                  718 commits         ██████░░░░░░░░░░░░░░░░░░░   24.67 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   554 commits         █████░░░░░░░░░░░░░░░░░░░░   19.04 % 
-Tuesday                  409 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
-Wednesday                349 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
-Thursday                 310 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
-Friday                   559 commits         █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
-Saturday                 316 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
-Sunday                   413 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   10 repos            ███████░░░░░░░░░░░░░░░░░░   27.78 % 
-TypeScript               10 repos            ███████░░░░░░░░░░░░░░░░░░   27.78 % 
-JavaScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
-Kotlin                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/cipher-attack/cipher-attack/main/assets/bar_graph.png)
-
-
- Last Updated on 21/03/2026 01:57:02 UTC
-<!--END_SECTION:waka-->
   <br /><br />
+  
   <table align="center" border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats-8wtg.onrender.com/api?username=cipher-attack&show_icons=true&hide_border=true&bg_color=000000&title_color=ff0000&icon_color=ff0000&text_color=ffffff&count_private=true&include_all_commits=true" width="100%" />
+        <!-- FIXED: Changed background to pure black (000000) and used official Vercel API -->
+        <img src="https://github-readme-stats.vercel.app/api?username=cipher-attack&show_icons=true&hide_border=true&bg_color=000000&title_color=ff0000&icon_color=ff0000&text_color=ffffff&count_private=true&include_all_commits=true" width="100%" />
       </td>
       <td align="center">
-        <img src="https://github-readme-stats-8wtg.onrender.com/api/top-langs/?username=cipher-attack&layout=compact&hide_border=true&bg_color=000000&title_color=FF0000&text_color=ffffff&icon_color=FF0000&count_private=true" width="100%" />
+        <!-- FIXED: Changed background to pure black (000000) and used official Vercel API -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cipher-attack&layout=compact&hide_border=true&bg_color=000000&title_color=FF0000&text_color=ffffff&icon_color=FF0000&count_private=true" width="100%" />
       </td>
     </tr>
   </table>
   <br />
-  <a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=cipher-attack&background=transparent&hide_border=true&ring=FF0000&fire=FF0000&currStreakLabel=ffffff&currStreakNum=FF0000&sideNums=ffffff&sideLabels=ffffff&dates=cccccc" alt="GitHub Streak" />
-          </a>
   
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cipher-attack&theme=github_dark)
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=cipher-attack&background=00000000&hide_border=true&ring=FF0000&fire=FF0000&currStreakLabel=ffffff&currStreakNum=FF0000&sideNums=ffffff&sideLabels=ffffff&dates=cccccc" alt="GitHub Streak" />
+  </a>
+  
+  <br/><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cipher-attack&theme=github_dark" alt="Profile Summary" />
 
-  <h4 align="center" style="color: #FF0000;">>_му_α¢тινιту's</h4>
+  <h4 align="center" style="color: #FF0000; margin-top: 30px;">>_му_α¢тινιту's</h4>
   <img src="https://github.com/cipher-attack/cipher-attack/blob/output/github-contribution-grid-snake.svg" width="100%" alt="Snake Animation" />
   <br />
   <p align="center">
@@ -176,4 +117,3 @@ Dart                     1 repo              █░░░░░░░░░░�
 <div style="font-family: monospace; color: #888; font-size: 13px; text-align: center; margin-top: 20px;">
   𝚝𝚑𝚎 𝚜𝚢𝚜𝚝𝚎𝚖 𝚒𝚜𝚗'𝚝 𝚛𝚎𝚊𝚕𝚕𝚢 𝚋𝚛𝚘𝚔𝚎𝚗. 𝚒𝚝 𝚠𝚊𝚜 𝚓𝚞𝚜𝚝 𝚋𝚞𝚒𝚕𝚝 𝚝𝚑𝚒𝚜 𝚠𝚊𝚢. 𝚒 𝚓𝚞𝚜𝚝 𝚑𝚊𝚙𝚙𝚎𝚗𝚍 𝚝𝚘 𝚏𝚒𝚗𝚍 𝚝𝚑𝚎 𝚍𝚘𝚘𝚛.
 </div>
-

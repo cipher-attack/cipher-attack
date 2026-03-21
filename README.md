@@ -72,7 +72,7 @@
 <!-- GOD-TIER METRICS SECTION -->
 <div align="center">
   <h3 align="left" style="color: #FF0000; max-width: 800px;">>_ѕуѕтєм_мєтяι¢ѕ</h3>
-  
+  <img src="metrics.newcard.svg" width="100%" />
   <!-- 1. COMPACT TERMINAL -->
   <img src="metrics.terminal.svg" width="100%" style="max-width: 800px; border-radius: 8px; box-shadow: 0px 0px 15px rgba(255,0,0,0.15); margin-bottom: 15px;" alt="Metrics Terminal" />
   

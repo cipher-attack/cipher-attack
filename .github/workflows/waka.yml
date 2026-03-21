@@ -1,29 +1,29 @@
-name: WakaTime Stats Update
+#name: WakaTime Stats Update
 
-on:
-  schedule:
+#on:
+  #schedule:
     # Runs at 12:00 AM UTC every day
-    - cron: '0 0 * * *'
-  workflow_dispatch: # Allows manual run
+  #  - cron: '0 0 * * *'
+#  workflow_dispatch: # Allows manual run
 
-jobs:
-  update-readme:
-    name: Update WakaTime Stats
-    runs-on: ubuntu-latest
-    steps:
-      - uses: anmol098/waka-readme-stats@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+#jobs:
+  #update-readme:
+#    name: Update WakaTime Stats
+  #  runs-on: ubuntu-latest
+#    steps:
+  #    - uses: anmol098/waka-readme-stats@master
+   #     with:
+   #       WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+    #      GH_TOKEN: ${{ secrets.GH_TOKEN }}
           
           # TARGET SETTINGS
-          SHOW_OS: "False"
-          SHOW_PROJECTS: "False"
-          SHOW_EDITORS: "False"
-          SHOW_TIMEZONE: "False"
-          SHOW_COMMIT: "True"
-          SHOW_LANGUAGE: "True"
-          SHOW_LINES_OF_CODE: "True"
+      #    SHOW_OS: "False"
+     #     SHOW_PROJECTS: "False"
+       #   SHOW_EDITORS: "False"
+   #       SHOW_TIMEZONE: "False"
+    #      SHOW_COMMIT: "True"
+ #         SHOW_LANGUAGE: "True"
+#          SHOW_LINES_OF_CODE: "True"
           
           # AESTHETICS (The Cipher Theme: RED/BLACK)
           # We use a custom flag or existing theme. 
@@ -31,9 +31,9 @@ jobs:
           # we stick to the darkest available and disable light backgrounds.
           
           # Content config
-          Commit_Message: "⚡ Auto-update: Termux Ops Stats"
-          SECTION_NAME: "waka"
-          BLOCKS: "█"
-          CODE_LANG: "python, bash, html, javascript, go"
-          LANG_COUNT: 10
-          TIME_RANGE: "last_7_days"
+    #      Commit_Message: "⚡ Auto-update: Termux Ops Stats"
+   #       SECTION_NAME: "waka"
+  #        BLOCKS: "█"
+     #     CODE_LANG: "python, bash, html, javascript, go"
+   #       LANG_COUNT: 10
+  #        TIME_RANGE: "last_7_days"

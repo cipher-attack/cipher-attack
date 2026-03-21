@@ -77,9 +77,10 @@
   
   <img src="metrics.lines.svg" width="100%" style="max-width: 800px; border-radius: 8px; box-shadow: 0px 0px 15px rgba(255,0,0,0.15); margin-bottom: 15px;" alt="Lines of Code" />
 
-  <!-- 3. GITHUB ACHIEVEMENTS -->
-  <h4 align="left" style="color: #FF0000; max-width: 800px;">>_α¢нιєνємєит_ℓσgѕ</h4>
-  <img src="metrics.achievements.svg" width="100%" style="max-width: 800px; border-radius: 8px; box-shadow: 0px 0px 15px rgba(255,0,0,0.15);" alt="GitHub Achievements" />
+  <!-- RECENTLY PLAYED MUSIC -->
+<h4 align="left" style="color: #FF0000; max-width: 800px; margin-top: 20px;">>_яє¢єит_αυ∂ισ_ℓσgѕ</h4>
+<div align="center">
+  <img src="metrics.music.svg" width="100%" style="max-width: 800px; border-radius: 8px; box-shadow: 0px 0px 15px rgba(255,0,0,0.15);" alt="Spotify Music Activity" />
 </div>
 
 <br/>

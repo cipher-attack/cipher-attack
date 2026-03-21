@@ -2,6 +2,8 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FF0000&center=true&vCenter=true&width=380&lines=%2F%2F+connecting+to+handheld+node...;vector%3A+local+execution+only;no+cloud.+no+bs.+just+termux.;staying+under+the+radar..." alt="Typing SVG" />
   <br/>
+<img src="./key.svg" alt="Cipher Key" width="60" style="margin-top: 5px; margin-bottom: 15px;" />
+  <br/>
   <h3 style="color: #ffffff; margin-bottom: 5px;">~/.ωнσαмι</h3>
   <h1 style="margin-top: 0;"><kbd style="background-color: #000; color: #FF0000; border: 1px solid #FF0000; padding: 5px; border-radius: 5px;"> C I P H E R </kbd></h1>
   

@@ -35,7 +35,7 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
 
-      # 3. Lines of Code History (System Monitor)
+      # 3. Lines of Code History
       - name: Lines of Code
         uses: lowlighter/metrics@master
         with:
@@ -48,31 +48,18 @@ jobs:
           plugin_lines_history_limit: 1
           plugin_lines_repositories_limit: 4
 
-      # 4. GitHub Achievements
-      - name: Hacker Achievements
+      # 4. Stargazers Worldmap (አዲሱ የካርታ ፕለጊን)
+      - name: Hacker Worldmap
         uses: lowlighter/metrics@master
         with:
-          filename: metrics.achievements.svg
+          filename: metrics.stargazers.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: cipher-attack
           template: classic
           base: ""
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: C
-
-      # 5. Hacker Habits
-      - name: Hacker Habits
-        uses: lowlighter/metrics@master
-        with:
-          filename: metrics.habits.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: cipher-attack
-          template: terminal
-          base: ""
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 30
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
-          config_timezone: Africa/Addis_Ababa
+          plugin_stargazers: yes
+          plugin_stargazers_worldmap: yes
+          plugin_stargazers_worldmap_sample: 100
+          # ማሳሰቢያ፡ ካርታው አድራሻዎችን በደንብ እንዲያነብ የ Google Maps Geocoding API ይፈልግ ይሆናል። 
+          # Error ካመጣ ወይም ካርታው ባዶ ከሆነ፣ ከስር ያለውን (#) አጥፍተህ የ Google Map ቶከን ማስገባት ሊኖርብህ ይችላል።
+          # plugin_stargazers_worldmap_token: ${{ secrets.GOOGLE_MAP_TOKEN }}

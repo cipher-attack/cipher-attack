@@ -62,7 +62,7 @@ jobs:
           plugin_stargazers_worldmap_sample: 100
           plugin_stargazers_worldmap_token: ${{ secrets.GOOGLE_MAP_TOKEN }}
 # 5. Spotify Music Activity
-     - name: Hacker Music Playlist
+      - name: Hacker Music Playlist
         uses: lowlighter/metrics@master
         with:
           filename: metrics.music.svg

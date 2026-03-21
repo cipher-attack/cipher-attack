@@ -48,7 +48,7 @@ jobs:
           plugin_lines_history_limit: 1
           plugin_lines_repositories_limit: 4
 
-      # 4. Stargazers Worldmap (አዲሱ የካርታ ፕለጊን)
+# 4. Stargazers Worldmap
       - name: Hacker Worldmap
         uses: lowlighter/metrics@master
         with:
@@ -60,6 +60,4 @@ jobs:
           plugin_stargazers: yes
           plugin_stargazers_worldmap: yes
           plugin_stargazers_worldmap_sample: 100
-          # ማሳሰቢያ፡ ካርታው አድራሻዎችን በደንብ እንዲያነብ የ Google Maps Geocoding API ይፈልግ ይሆናል። 
-          # Error ካመጣ ወይም ካርታው ባዶ ከሆነ፣ ከስር ያለውን (#) አጥፍተህ የ Google Map ቶከን ማስገባት ሊኖርብህ ይችላል።
-         plugin_stargazers_worldmap_token: ${{ secrets.GOOGLE_MAP_TOKEN }}
+          plugin_stargazers_worldmap_token: ${{ secrets.GOOGLE_MAP_TOKEN }}

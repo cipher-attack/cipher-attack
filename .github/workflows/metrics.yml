@@ -74,5 +74,7 @@ jobs:
           plugin_music_provider: spotify
           plugin_music_mode: top
           plugin_music_limit: 4
+          plugin_music_time_range: short
+          plugin_music_top_type: tracks
           # ከታች ያለው መስመር 3ቱንም የ Spotify ሚስጥሮች አንድ ላይ ያጣምራቸዋል
           plugin_music_token: "${{ secrets.SPOTIFY_CLIENT_ID }}, ${{ secrets.SPOTIFY_CLIENT_SECRET }}, ${{ secrets.SPOTIFY_REFRESH_TOKEN }}"

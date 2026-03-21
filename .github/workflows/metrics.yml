@@ -1,6 +1,6 @@
 name: Metrics
 on:
-  schedule: [{cron: "0 0 * * *"}]
+  schedule:[{cron: "0 0 * * *"}]
   workflow_dispatch:
   push: {branches: ["master", "main"]}
 jobs:
@@ -34,7 +34,6 @@ jobs:
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
-          config_theme: dark
 
       # 3. Lines of Code History (System Monitor)
       - name: Lines of Code
@@ -48,7 +47,6 @@ jobs:
           plugin_lines: yes
           plugin_lines_history_limit: 1
           plugin_lines_repositories_limit: 4
-          config_theme: dark
 
       # 4. GitHub Achievements
       - name: Hacker Achievements
@@ -62,9 +60,8 @@ jobs:
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_threshold: C
-          config_theme: dark
 
-      # 5. Hacker Habits (ቀኑ ወደ 30 ከፍ ብሏል መረጃ እንዲያገኝ)
+      # 5. Hacker Habits
       - name: Hacker Habits
         uses: lowlighter/metrics@latest
         with:

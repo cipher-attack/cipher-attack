@@ -71,7 +71,7 @@
   
   <table align="center" border="0" cellspacing="0" cellpadding="0" width="100%">
     <tr>
-      <td align="center" width="85%" valign="top" style="padding-right: 5px;">
+      <td align="center" width="100%" valign="top" style="padding-right: 5px;">
         <!-- 2. 3D ISOMETRIC CALENDAR -->
         <img src="metrics.isocalendar.svg" width="100%" alt="3D Isometric Calendar" style="border-radius: 8px; box-shadow: 0px 0px 15px rgba(255,0,0,0.15);" />
       </td>

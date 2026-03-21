@@ -62,4 +62,4 @@ jobs:
           plugin_stargazers_worldmap_sample: 100
           # ማሳሰቢያ፡ ካርታው አድራሻዎችን በደንብ እንዲያነብ የ Google Maps Geocoding API ይፈልግ ይሆናል። 
           # Error ካመጣ ወይም ካርታው ባዶ ከሆነ፣ ከስር ያለውን (#) አጥፍተህ የ Google Map ቶከን ማስገባት ሊኖርብህ ይችላል።
-           plugin_stargazers_worldmap_token: ${{ secrets.GOOGLE_MAP_TOKEN }}
+         plugin_stargazers_worldmap_token: ${{ secrets.GOOGLE_MAP_TOKEN }}

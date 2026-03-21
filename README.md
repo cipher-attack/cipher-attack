@@ -47,7 +47,6 @@
 </table>
 
 <div align="center" style="margin-top: 15px;">
-  <!-- PRO ELEMENT 3: Active Connection Logger -->
   <img src="https://komarev.com/ghpvc/?username=cipher-attack&label=ACTIVE_CONNECTIONS&color=FF0000&style=for-the-badge&background=000000" alt="Visitor Badge" />
 </div>
 
@@ -65,18 +64,18 @@
 <h3 align="left" style="color: #FF0000;">>_ѕуѕтєм_мєтяι¢ѕ</h3>
 <div align="center">
 
-  <!-- 1. COMPACT TERMINAL (Shortened, No Redundancy) -->
-  <img src="https://metrics.lecoq.io/cipher-attack?template=terminal&base=header%2Cmetadata&theme=dark" width="80%" alt="Metrics Terminal" style="border-radius: 8px; box-shadow: 0px 0px 15px rgba(255,0,0,0.15);" />
+  <!-- 1. COMPACT TERMINAL (Local Repo File) -->
+  <img src="metrics.terminal.svg" width="80%" alt="Metrics Terminal" style="border-radius: 8px; box-shadow: 0px 0px 15px rgba(255,0,0,0.15);" />
   
   <br /><br />
   
-  <!-- 2. HABITS & MAP (Timezone Map + Coding Hours) -->
-  <img src="https://metrics.lecoq.io/cipher-attack?template=classic&base=0&plugin_habits=yes&plugin_habits_charts=yes&plugin_habits_facts=no&config_timezone=Africa%2FAddis_Ababa&theme=dark" width="80%" alt="Habits Map" style="border-radius: 8px; box-shadow: 0px 0px 15px rgba(255,0,0,0.15);" />
+  <!-- 2. HABITS & MAP (Local Repo File) -->
+  <img src="metrics.habits.svg" width="80%" alt="Habits Map" style="border-radius: 8px; box-shadow: 0px 0px 15px rgba(255,0,0,0.15);" />
 
   <br /><br />
   
-  <!-- 3. 3D ISOMETRIC CALENDAR (Contributions in 3D) -->
-  <img src="https://metrics.lecoq.io/cipher-attack?template=classic&base=0&plugin_isocalendar=yes&plugin_isocalendar_duration=half-year&theme=dark" width="80%" alt="3D Isometric Calendar" style="border-radius: 8px; box-shadow: 0px 0px 15px rgba(255,0,0,0.15);" />
+  <!-- 3. 3D ISOMETRIC CALENDAR (Local Repo File) -->
+  <img src="metrics.isocalendar.svg" width="80%" alt="3D Isometric Calendar" style="border-radius: 8px; box-shadow: 0px 0px 15px rgba(255,0,0,0.15);" />
 
 </div>
   
@@ -146,4 +145,4 @@
 <br /><br />
 <div style="font-family: monospace; color: #888; font-size: 13px; text-align: center; margin-top: 20px;">
   𝚝𝚑𝚎 𝚜𝚢𝚜𝚝𝚎𝚖 𝚒𝚜𝚗'𝚝 𝚛𝚎𝚊𝚕𝚕𝚢 𝚋𝚛𝚘𝚔𝚎𝚗. 𝚒𝚝 𝚠𝚊𝚜 𝚓𝚞𝚜𝚝 𝚋𝚞𝚒𝚕𝚝 𝚝𝚑𝚒𝚜 𝚠𝚊𝚢. 𝚒 𝚓𝚞𝚜𝚝 𝚑𝚊𝚙𝚙𝚎𝚗𝚍 𝚝𝚘 𝚏𝚒𝚗𝚍 𝚝𝚑𝚎 𝚍𝚘𝚘𝚛.
-</div>
+</div>n

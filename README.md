@@ -60,61 +60,41 @@
 
 <hr style="border-color: #330000;"/>
 
-<!-- METRICS & ADVANCED STATS SECTION -->
+<!-- GOD-TIER METRICS SECTION -->
 <h3 align="left" style="color: #FF0000;">>_ѕуѕтєм_мєтяι¢ѕ</h3>
 <div align="center">
 
-  <!-- 1. COMPACT TERMINAL (Local Repo File) -->
-  <img src="metrics.terminal.svg" width="80%" alt="Metrics Terminal" style="border-radius: 8px; box-shadow: 0px 0px 15px rgba(255,0,0,0.15);" />
+  <!-- 1. COMPACT TERMINAL (With Languages) -->
+  <img src="metrics.terminal.svg" width="85%" alt="Metrics Terminal" style="border-radius: 8px; box-shadow: 0px 0px 15px rgba(255,0,0,0.15);" />
   
   <br /><br />
   
-  <!-- 2. HABITS & MAP (Local Repo File) -->
-  <img src="metrics.habits.svg" width="80%" alt="Habits Map" style="border-radius: 8px; box-shadow: 0px 0px 15px rgba(255,0,0,0.15);" />
-
-  <br /><br />
-  
-  <!-- 3. 3D ISOMETRIC CALENDAR (Local Repo File) -->
-  <img src="metrics.isocalendar.svg" width="80%" alt="3D Isometric Calendar" style="border-radius: 8px; box-shadow: 0px 0px 15px rgba(255,0,0,0.15);" />
-
-</div>
-  
-<br /><br />
-  
-<!-- 4. Unified Dashboard Grid (Stats Cards) -->
-<div align="center">
-  <table align="center" border="0" cellspacing="0" cellpadding="0" width="90%">
+  <table align="center" border="0" cellspacing="0" cellpadding="0" width="85%">
     <tr>
-      <td align="center" width="50%" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=cipher-attack&show_icons=true&hide_border=true&bg_color=000000&title_color=ff0000&icon_color=ff0000&text_color=ffffff&count_private=true&include_all_commits=true" width="100%" />
+      <td align="center" width="50%" valign="top" style="padding-right: 5px;">
+        <!-- 2. 3D ISOMETRIC CALENDAR -->
+        <img src="metrics.isocalendar.svg" width="100%" alt="3D Isometric Calendar" style="border-radius: 8px; box-shadow: 0px 0px 15px rgba(255,0,0,0.15);" />
       </td>
-      <td align="center" width="50%" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cipher-attack&layout=compact&hide_border=true&bg_color=000000&title_color=FF0000&text_color=ffffff&icon_color=FF0000&count_private=true" width="100%" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2" valign="top" style="padding-top: 15px;">
-        <a href="https://git.io/streak-stats">
-          <img src="https://github-readme-streak-stats.herokuapp.com?user=cipher-attack&background=00000000&hide_border=true&ring=FF0000&fire=FF0000&currStreakLabel=ffffff&currStreakNum=FF0000&sideNums=ffffff&sideLabels=ffffff&dates=cccccc" width="80%" alt="GitHub Streak" />
-        </a>
+      <td align="center" width="50%" valign="top" style="padding-left: 5px;">
+        <!-- 3. LINES OF CODE HISTORY (System Monitor look) -->
+        <img src="metrics.lines.svg" width="100%" alt="Lines of Code" style="border-radius: 8px; box-shadow: 0px 0px 15px rgba(255,0,0,0.15);" />
       </td>
     </tr>
   </table>
+
 </div>
+  
+<br />
 
-<br/><br/>
-
-<!-- PRO ELEMENT 4: Hacker Trophies -->
+<!-- 4. OFFICIAL GITHUB ACHIEVEMENTS (Replacing Trophies) -->
 <h4 align="center" style="color: #FF0000;">>_α¢нιєνємєит_ℓσgѕ</h4>
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=cipher-attack&theme=onedark&no-frame=true&no-bg=true&margin-w=15&column=6" alt="Trophies" />
-  </a>
+  <img src="metrics.achievements.svg" width="85%" alt="GitHub Achievements" style="border-radius: 8px; box-shadow: 0px 0px 15px rgba(255,0,0,0.15);" />
 </div>
 
 <br/>
 
-<!-- PRO ELEMENT 5: Clean Activity Section (Snake Animation) -->
+<!-- NETWORK ACTIVITY (Snake Animation) -->
 <h4 align="center" style="color: #FF0000; margin-top: 20px;">>_му_α¢тινιту_иєтωσяк</h4>
 <div align="center">
   <img src="https://github.com/cipher-attack/cipher-attack/blob/output/github-contribution-grid-snake.svg" width="90%" alt="Snake Animation" />
@@ -145,4 +125,4 @@
 <br /><br />
 <div style="font-family: monospace; color: #888; font-size: 13px; text-align: center; margin-top: 20px;">
   𝚝𝚑𝚎 𝚜𝚢𝚜𝚝𝚎𝚖 𝚒𝚜𝚗'𝚝 𝚛𝚎𝚊𝚕𝚕𝚢 𝚋𝚛𝚘𝚔𝚎𝚗. 𝚒𝚝 𝚠𝚊𝚜 𝚓𝚞𝚜𝚝 𝚋𝚞𝚒𝚕𝚝 𝚝𝚑𝚒𝚜 𝚠𝚊𝚢. 𝚒 𝚓𝚞𝚜𝚝 𝚑𝚊𝚙𝚙𝚎𝚗𝚍 𝚝𝚘 𝚏𝚒𝚗𝚍 𝚝𝚑𝚎 𝚍𝚘𝚘𝚛.
-</div>n
+</div>

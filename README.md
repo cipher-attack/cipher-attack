@@ -69,13 +69,13 @@
   
   <br /><br />
   
-  <table align="center" border="0" cellspacing="0" cellpadding="0" width="85%">
+  <table align="center" border="0" cellspacing="0" cellpadding="0" width="100%">
     <tr>
-      <td align="center" width="50%" valign="top" style="padding-right: 5px;">
+      <td align="center" width="85%" valign="top" style="padding-right: 5px;">
         <!-- 2. 3D ISOMETRIC CALENDAR -->
         <img src="metrics.isocalendar.svg" width="100%" alt="3D Isometric Calendar" style="border-radius: 8px; box-shadow: 0px 0px 15px rgba(255,0,0,0.15);" />
       </td>
-      <td align="center" width="50%" valign="top" style="padding-left: 5px;">
+      <td align="center" width="85%" valign="top" style="padding-left: 5px;">
         <!-- 3. LINES OF CODE HISTORY (System Monitor look) -->
         <img src="metrics.lines.svg" width="100%" alt="Lines of Code" style="border-radius: 8px; box-shadow: 0px 0px 15px rgba(255,0,0,0.15);" />
       </td>

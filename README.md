@@ -76,7 +76,7 @@
   <img src="metrics.terminal.svg" width="100%" style="max-width: 800px; border-radius: 8px; box-shadow: 0px 0px 15px rgba(255,0,0,0.15); margin-bottom: 15px;" alt="Metrics Terminal" />
   
 
- <img src="metrics.newcard.svg" width="100%" />
+ <img src="metrics.habits.svg" width="100%" />
 
   <!-- 2. ISOCALENDAR & LINES OF CODE (STACKED FOR MOBILE, PERFECT FIT) -->
   <img src="metrics.isocalendar.svg" width="100%" style="max-width: 800px; border-radius: 8px; box-shadow: 0px 0px 15px rgba(255,0,0,0.15); margin-bottom: 15px;" alt="3D Isometric Calendar" />

@@ -1,5 +1,5 @@
 <!-- HEADER START -->
-<div align="center">
+<div align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FF0000&center=true&vCenter=true&width=380&lines=%2F%2F+connecting+to+handheld+node...;vector%3A+local+execution+only;no+cloud.+no+bs.+just+termux.;staying+under+the+radar..." alt="Typing SVG" />
   <br/>
 <img src="./key.svg" alt="Cipher Key" width="60" style="margin-top: 5px; margin-bottom: 15px;" />
@@ -7,15 +7,13 @@
   <h3 style="color: #ffffff; margin-bottom: 5px;">~/.ωнσαмι</h3>
   <h1 style="margin-top: 0;"><kbd style="background-color: #000; color: #FF0000; border: 1px solid #FF0000; padding: 5px; border-radius: 5px;"> C I P H E R </kbd></h1>
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1500&color=FF0000&background=0A0A0A&border=1px+solid+330000&borderRadius=5&center=true&vCenter=true&width=380&height=40&lines=%3E_+RED_TEAM%3A+ACCESS_GRANTED...;%3E_+CORE_SHELL%3A+SYSTEM_ROOT...;%3E_+BYPASSING_MAINFRAME..." alt="Animated Hacker Badge" style="box-shadow: 0 0 10px rgba(255,0,0,0.3);" />
-  
-  <!-- VISITOR BADGE MOVED UP FOR CLEANER LOOK -->
+  <!-- visitor badge -->
   <img src="https://komarev.com/ghpvc/?username=cipher-attack&label=ACTIVE_CONNECTIONS&color=FF0000&style=for-the-badge&background=000000" alt="Visitor Badge" />
 </div>
 
 <br/>
 
-<!-- SYSTEM DESCRIPTION (TERMINAL BLOCK) -->
+<!-- description -->
 <div align="center">
   <div style="background-color: rgba(0,0,0,0.9); padding: 20px; border-radius: 10px; border-left: 3px solid #FF0000; max-width: 800px; text-align: left; box-shadow: 0 0 10px rgba(255,0,0,0.1);">
     <h4 style="color: #FF0000; margin-top: 0; font-family: monospace;">// root@¢ιρнєя:~# cat description.txt</h4>
@@ -32,7 +30,7 @@
 
 <br/>
 
-<!-- INFRA AND STUDIO IMAGE -->
+<!-- infra && other -->
 <div align="center">
   <img src="CIPHER_STUDIO.gif" width="100%" style="max-width: 800px; border-radius: 10px; box-shadow: 0 0 15px rgba(255,0,0,0.3); border: 1px solid #330000;" alt="Cipher Studio" />
   
@@ -56,7 +54,7 @@
 
 <br/><br/>
 
-<!-- MISSION SECTION -->
+<!-- mission section-->
 <div align="left" style="max-width: 800px; margin: auto;">
   <h3> <img src="https://media.giphy.com/media/iIYJCmUe8taRw1tVRf/giphy.gif" width="30" style="vertical-align: middle;"> current_focus </h3>
   <p style="font-size: 15px; line-height: 1.5;">
@@ -66,13 +64,13 @@
 
 <hr style="border-color: #330000; max-width: 800px;" />
 
-<!-- GOD-TIER METRICS SECTION -->
+<!-- Gmetrics -->
 <div align="center">
   <h3 align="left" style="color: #FF0000; max-width: 800px;">>_ѕуѕтєм_мєтяι¢ѕ</h3>
-  <!-- 1. COMPACT TERMINAL -->
+  <!-- temrinal -->
   <img src="metrics.terminal.svg" width="100%" style="max-width: 800px; border-radius: 8px; box-shadow: 0px 0px 15px rgba(255,0,0,0.15); margin-bottom: 15px;" alt="Metrics Terminal" />
   
-  <!-- 2. ISOCALENDAR & LINES OF CODE (STACKED FOR MOBILE, PERFECT FIT) -->
+  <!-- 2. iso caland -->
   <img src="metrics.isocalendar.svg" width="100%" style="max-width: 800px; border-radius: 8px; box-shadow: 0px 0px 15px rgba(255,0,0,0.15); margin-bottom: 15px;" alt="3D Isometric Calendar" />
   
   <img src="metrics.lines.svg" width="100%" style="max-width: 800px; border-radius: 8px; box-shadow: 0px 0px 15px rgba(255,0,0,0.15); margin-bottom: 15px;" alt="Lines of Code" />
@@ -85,17 +83,17 @@
 
 <br/>
 
-<!-- GLOBAL TARGET MAP -->
+<!-- map -->
 <h4 align="left" style="color: #FF0000; max-width: 800px;">>_gℓσвαℓ_тαяgєт_мαρ</h4>
 <div align="center">
   <img src="metrics.stargazers.svg" width="100%" style="max-width: 800px; border-radius: 8px; box-shadow: 0px 0px 15px rgba(255,0,0,0.15);" alt="Stargazers Worldmap" />
 </div>
 
-<!-- NETWORK ACTIVITY (Snake Animation) -->
+<!-- snake anime -->
 <div align="center">
   <h4 align="left" style="color: #FF0000; margin-top: 20px; max-width: 800px;">>_му_α¢тινιту_иєтωσяк</h4>
   
-  <!-- CORRECTED RAW URL FOR SNAKE IMAGE -->
+  <!-- snake image -->
   <img src="https://raw.githubusercontent.com/cipher-attack/cipher-attack/output/github-contribution-grid-snake.svg" width="100%" style="max-width: 800px;" alt="Snake Animation" />
   
   <br /><br />
@@ -111,7 +109,7 @@
 
 <hr style="border-color: #330000; max-width: 800px;" />
 
-<!-- FOOTER CONNECT -->
+<!-- footer connect -->
 <div align="center" style="max-width: 800px; margin: auto;">
   <h3 align="left" style="color: #ffffff;">>_ᥴꪮꪮꪑ𝘴..</h3>
   <a href="https://x.com/Cipher_attacks"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=FF0000" alt="X" /></a>
@@ -123,7 +121,7 @@
   <a href="https://github.com/cipher-attack"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF0000" alt="GitHub" /></a>
 
   <br /><br />
-  <!-- TYPO FIXED: happend -> happened -->
+  <!-- last -->
   <div style="font-family: monospace; color: #888; font-size: 13px; text-align: center; margin-top: 20px;">
     𝚝𝚑𝚎 𝚜𝚢𝚜𝚝𝚎𝚖 𝚒𝚜𝚗'𝚝 𝚛𝚎𝚊𝚕𝚕𝚢 𝚋𝚛𝚘𝚔𝚎𝚗. 𝚒𝚝 𝚠𝚊𝚜 𝚓𝚞𝚜𝚝 𝚋𝚞𝚒𝚕𝚝 𝚝𝚑𝚒𝚜 𝚠𝚊𝚢. 𝚒 𝚓𝚞𝚜𝚝 𝚑𝚊𝚙𝚙𝚎𝚗𝚎𝚍 𝚝𝚘 𝚏𝚒𝚗𝚍 𝚝𝚑𝚎 𝚍𝚘𝚘𝚛.
   </div>

@@ -14,21 +14,20 @@
 <br/>
 
 <!-- description -->
+
 <div align="center">
   <div style="background-color: rgba(0,0,0,0.9); padding: 20px; border-radius: 10px; border-left: 3px solid #FF0000; max-width: 800px; text-align: left; box-shadow: 0 0 10px rgba(255,0,0,0.1);">
-    <h4 style="color: #FF0000; margin-top: 0; font-family: monospace;">// root@¢ιρнєя:~# cat description.txt</h4>
+    <h4 style="color: #FF0000; margin-top: 0; font-family: monospace;">// about_me.txt</h4>
     <p style="color: #dddddd; font-size: 14px; line-height: 1.6;">
-      red teamer focusing on <b>мobile-first σffensive Security</b>. honestly, forget the heavy rigs.. i'm just deploying full attack vectors straight from my phone. by leveraging <b>Termux</b> & some custom chroot environments, i basically flip standard mobile hardware into a weaponized C2 node.
+      a tech enthusiast who loves doing everything from a mobile phone. instead of using a big computer setup, i rely mostly on my phone. by using <b>Termux</b> and some linux environments, i turn my everyday phone into my main workspace.
     </p>
     <ul style="color: #dddddd; font-size: 13px; padding-left: 20px;">
-      <li>running on <b>AArch64</b> via proot-distro/nethunter.</li>
-      <li>mostly focused on <b>Cellular egress</b> & gray-man tactics to stay under the radar.</li>
-      <li>plus, i use <b>Python</b> for all my air-gapped extraction automation.</li>
+      <li>running linux environments directly on android.</li>
+      <li>exploring mobile networks and digital privacy.</li>
+      <li>writing <b>Python</b> scripts to automate my daily tasks.</li>
     </ul>
   </div>
 </div>
-
-<br/>
 
 <!-- infra && other -->
 <div align="center">
@@ -39,15 +38,15 @@
   <div style="background-color: #050505; border: 1px dashed #FF0000; border-radius: 5px; padding: 15px; max-width: 800px; text-align: left;">
     <p style="color: #ffffff; font-size: 13px; font-family: monospace; margin: 0 0 10px 0;">
       <span style="color: #FF0000;">>_</span> <b>ιиfяα:</b><br/>
-      basically running a headless kali setup inside android user-space. no cloud, no bs—everything is 100% Local execution.
+      running a simple linux environment on android. keeping things local and experimenting directly on my phone.
     </p>
     <p style="color: #ffffff; font-size: 13px; font-family: monospace; margin: 0 0 10px 0;">
       <span style="color: #FF0000;">>_</span> <b>тαℓк:</b><br/>
-      honestly, the most dangerous computer is the one you’ve got in your pocket right now.
+      smartphones are incredibly powerful tools for learning and coding on the go.
     </p>
     <hr style="border-color: #333;" />
-    <p style="color: #ff4444; font-size: 12px; font-family: monospace; margin: 0; font-style: italic; text-align: center;">
-      ​!! нєα∂ѕ υρ: authorized access only. i’m watching the logs, so stay out.
+    <p style="color: #bbbbbb; font-size: 12px; font-family: monospace; margin: 0; font-style: italic; text-align: center;">
+      welcome to my space! feel free to look around and explore my projects.
     </p>
   </div>
 </div>
@@ -58,7 +57,7 @@
 <div align="left" style="max-width: 800px; margin: auto;">
   <h3> <img src="https://media.giphy.com/media/iIYJCmUe8taRw1tVRf/giphy.gif" width="30" style="vertical-align: middle;"> current_focus </h3>
   <p style="font-size: 15px; line-height: 1.5;">
-    doing some <b>vulnerability research</b> and <b>exploit dev</b> on the side. basically scanning targets, sniffing packets, and just automating payloads for fun. this profile is where i track my tools and activity while building stuff for the offensive security community.
+    currently focused on <b>learning</b> and working on some <b>coding projects</b> on the side. basically writing scripts, exploring new tech, and just building small tools for fun. this profile is where i track my progress and share the simple things i create.
   </p>
 </div>
 
@@ -98,13 +97,12 @@
   
   <br /><br />
   <p>
-      <img src="https://img.shields.io/badge/Kali_Linux-000000?style=flat-square&logo=kali-linux&logoColor=FF0000" />
+      <img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white" />
       <img src="https://img.shields.io/badge/Termux-000000?style=flat-square&logo=android&logoColor=FF0000" />
       <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=FF0000" />
       <img src="https://img.shields.io/badge/Bash-000000?style=flat-square&logo=gnu-bash&logoColor=FF0000" />
-      <img src="https://img.shields.io/badge/Metasploit-000000?style=flat-square&logo=metasploit&logoColor=FF0000" />
   </p>
-  <code>CORE_STRENGTH: OFFSEC</code> | <code>ˢᵗᵃᵗᵘˢ: 𝖔𝖓𝖑𝖎𝖓𝖊</code>
+  <code>FOCUS: CODING & SCRIPTING</code> | <code>ˢᵗᵃᵗᵘˢ: 𝖔𝖓𝖑𝖎𝖓𝖊</code>
 </div>
 
 <hr style="border-color: #330000; max-width: 800px;" />
@@ -123,9 +121,8 @@
   <br /><br />
   <!-- last -->
   <div style="font-family: monospace; color: #888; font-size: 13px; text-align: center; margin-top: 20px;">
-    𝚝𝚑𝚎 𝚜𝚢𝚜𝚝𝚎𝚖 𝚒𝚜𝚗'𝚝 𝚛𝚎𝚊𝚕𝚕𝚢 𝚋𝚛𝚘𝚔𝚎𝚗. 𝚒𝚝 𝚠𝚊𝚜 𝚓𝚞𝚜𝚝 𝚋𝚞𝚒𝚕𝚝 𝚝𝚑𝚒𝚜 𝚠𝚊𝚢. 𝚒 𝚓𝚞𝚜𝚝 𝚑𝚊𝚙𝚙𝚎𝚗𝚎𝚍 𝚝𝚘 𝚏𝚒𝚗𝚍 𝚝𝚑𝚎 𝚍𝚘𝚘𝚛.
+    𝚊𝚕𝚠𝚊𝚢𝚜 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐, 𝚊𝚕𝚠𝚊𝚢𝚜 𝚌𝚘𝚍𝚒𝚗𝚐. 𝚏𝚎𝚎𝚕 𝚏𝚛𝚎𝚎 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚘𝚞𝚝!
   </div>
 </div>
 
-
-## 𝗕TШ ☝️ 𝐭𝐡𝐞 𝐚𝐛𝐨𝐯𝐞 𝐢𝐬 𝐌𝐘 𝐝𝐫𝐞𝐚𝐦 🦥🤪😉
+## ✌️ 𝐭𝐡𝐚𝐧𝐤𝐬 𝐟𝐨𝐫 𝐯𝐢𝐬𝐢𝐭𝐢𝐧𝐠💭  ☻️

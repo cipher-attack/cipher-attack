@@ -1,6 +1,6 @@
 <!-- HEADER START -->
 <div align="center">
-  <img src="./key.svg" alt="Cipher Key" width="60" style="margin-bottom: 10px;" />
+  <img src="./key.svg" alt="Cipher Key" width="100" style="margin-bottom: 10px;" />
   
    <img src="cipher.png" alt="CIPHER" width="350" />
 

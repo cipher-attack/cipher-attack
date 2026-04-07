@@ -1,22 +1,13 @@
 <!-- HEADER START -->
 <div align="center">
+  <img src="./key.svg" alt="Cipher Key" width="60" style="margin-bottom: 10px;" />
   
-  <!-- እዚህ ጋር "YOUR_IMAGE_LINK_HERE.png" በሚለው ቦታ ላይ የራስህን transparent ምስል ሊንክ ታስገባለህ -->
-  <img src="YOUR_IMAGE_LINK_HERE.png" alt="CIPHER" width="350" />
-  
+   <img src="YOUR_IMAGE_LINK_HERE.png" alt="CIPHER" width="350" />
+
   <br/><br/>
-  
-  <!-- ቀለል ያለ እና ፅድት ያለ መግቢያ ፅሁፍ (ከ SVG ይልቅ ይሄ በየትኛውም ስክሪን ላይ አያስተጓጉልም) -->
-  <p style="font-size: 16px; color: #888888;">
-    Hello, I'm a passionate coder! 👋 <br/>
-    Building projects from my phone 📱 | Always learning 🚀
-  </p>
-  
-  <br/>
-  
-  <!-- የጎብኚዎች ቆጣሪ (background ሳይኖረው ፅድት ብሎ እንዲታይ ተደርጓል) -->
-  <img src="https://komarev.com/ghpvc/?username=cipher-attack&label=PROFILE_VIEWS&color=FF0000&style=for-the-badge" alt="Visitor Badge" />
-  
+
+  <!-- visitor badge -->
+  <img src="https://komarev.com/ghpvc/?username=cipher-attack&label=PROFILE_VIEWS&color=FF0000&style=for-the-badge&background=000000" alt="Visitor Badge" />
 </div>
 
 <br/>

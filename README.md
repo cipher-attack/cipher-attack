@@ -1,14 +1,15 @@
 <!-- HEADER START -->
-<div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FF0000&center=true&vCenter=true&width=380&lines=%2F%2F+connecting+to+handheld+node...;vector%3A+local+execution+only;no+cloud.+no+bs.+just+termux.;staying+under+the+radar..." alt="Typing SVG" />
-  <br/>
-<img src="./key.svg" alt="Cipher Key" width="60" style="margin-top: 5px; margin-bottom: 15px;" />
-  <br/>
-  <h3 style="color: #ffffff; margin-bottom: 5px;">~/.ωнσαмι</h3>
-  <h1 style="margin-top: 0;"><kbd style="background-color: #000; color: #FF0000; border: 1px solid #FF0000; padding: 5px; border-radius: 5px;"> C I P H E R </kbd></h1>
+<div align="center">
+  <img src="./key.svg" alt="Cipher Key" width="60" style="margin-bottom: 10px;" />
+  
+  <h1 style="margin: 0; color: #ffffff; font-family: monospace;"> >_ C I P H E R </h1>
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=FF0000&center=true&vCenter=true&width=450&lines=Hello,+I'm+a+passionate+coder!+👋;Building+projects+from+my+phone+📱;Always+learning+new+technologies+🚀;Welcome+to+my+GitHub+space!+👾" alt="Typing SVG" />
+  
+  <br/><br/>
   
   <!-- visitor badge -->
-  <img src="https://komarev.com/ghpvc/?username=cipher-attack&label=ACTIVE_CONNECTIONS&color=FF0000&style=for-the-badge&background=000000" alt="Visitor Badge" />
+  <img src="https://komarev.com/ghpvc/?username=cipher-attack&label=PROFILE_VIEWS&color=FF0000&style=for-the-badge&background=000000" alt="Visitor Badge" />
 </div>
 
 <br/>

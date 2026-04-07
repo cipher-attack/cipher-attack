@@ -2,7 +2,7 @@
 <div align="center">
   <img src="./key.svg" alt="Cipher Key" width="60" style="margin-bottom: 10px;" />
   
-   <img src="YOUR_IMAGE_LINK_HERE.png" alt="CIPHER" width="350" />
+   <img src="cipher.png" alt="CIPHER" width="350" />
 
   <br/><br/>
 

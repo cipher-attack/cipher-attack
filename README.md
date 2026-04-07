@@ -1,11 +1,8 @@
 <!-- HEADER START -->
 <div align="center">
-  <img src="./key.svg" alt="Cipher Key" width="100" style="margin-bottom: 10px;" />
-  
+  <img src="./key.svg" alt="Cipher Key" width="200" style="margin-bottom: 10px;" /> 
    <img src="cipher.png" alt="CIPHER" width="350" />
-
   <br/><br/>
-
   <!-- visitor badge -->
   <img src="https://komarev.com/ghpvc/?username=cipher-attack&label=PROFILE_VIEWS&color=FF0000&style=for-the-badge&background=000000" alt="Visitor Badge" />
 </div>

@@ -4,7 +4,7 @@
   
   <h1 style="margin: 0; color: #ffffff; font-family: monospace;"> >_ C I P H E R </h1>
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=FF0000&center=true&vCenter=true&width=450&lines=Hello,+I'm+a+passionate+coder!+👋;Building+projects+from+my+phone+📱;Always+learning+new+technologies+🚀;Welcome+to+my+GitHub+space!+👾" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=FF0000&center=true&vCenter=true&width=450&lines=Hello,+I'm+a+passionate+coder!+👋;Building+projects+from+my+phone+📱;Always+learning+new+technologies+🚀;Welcome+to+my+GitHub+space!+✨" alt="Typing SVG" />
   
   <br/><br/>
   

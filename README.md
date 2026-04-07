@@ -1,15 +1,22 @@
 <!-- HEADER START -->
 <div align="center">
-  <img src="./key.svg" alt="Cipher Key" width="60" style="margin-bottom: 10px;" />
   
-  <h1 style="margin: 0; color: #ffffff; font-family: monospace;"> >_ C I P H E R </h1>
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=FF0000&center=true&vCenter=true&width=450&lines=Hello,+I'm+a+passionate+coder!+👋;Building+projects+from+my+phone+📱;Always+learning+new+technologies+🚀;Welcome+to+my+GitHub+space!+✨" alt="Typing SVG" />
+  <!-- እዚህ ጋር "YOUR_IMAGE_LINK_HERE.png" በሚለው ቦታ ላይ የራስህን transparent ምስል ሊንክ ታስገባለህ -->
+  <img src="YOUR_IMAGE_LINK_HERE.png" alt="CIPHER" width="350" />
   
   <br/><br/>
   
-  <!-- visitor badge -->
-  <img src="https://komarev.com/ghpvc/?username=cipher-attack&label=PROFILE_VIEWS&color=FF0000&style=for-the-badge&background=000000" alt="Visitor Badge" />
+  <!-- ቀለል ያለ እና ፅድት ያለ መግቢያ ፅሁፍ (ከ SVG ይልቅ ይሄ በየትኛውም ስክሪን ላይ አያስተጓጉልም) -->
+  <p style="font-size: 16px; color: #888888;">
+    Hello, I'm a passionate coder! 👋 <br/>
+    Building projects from my phone 📱 | Always learning 🚀
+  </p>
+  
+  <br/>
+  
+  <!-- የጎብኚዎች ቆጣሪ (background ሳይኖረው ፅድት ብሎ እንዲታይ ተደርጓል) -->
+  <img src="https://komarev.com/ghpvc/?username=cipher-attack&label=PROFILE_VIEWS&color=FF0000&style=for-the-badge" alt="Visitor Badge" />
+  
 </div>
 
 <br/>

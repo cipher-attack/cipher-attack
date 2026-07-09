@@ -51,17 +51,22 @@ I'm currently focused on low-level Android hardware manipulation and building to
 
 ![Header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Cipher%20Attack&fontSize=50&animation=twinkling)
 
-###@chievements
+### achievements
 
 <p align="left">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="65" title="Pull Shark"/> &nbsp;&nbsp;
-  
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="65" title="Quickdraw"/> &nbsp;&nbsp;
-  
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/yoda-default.png" width="65" title="Yoda Master"/> &nbsp;&nbsp;
-  
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="65" title="Pair Extraordinaire"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" width="45" height="45" title="Arctic Code Vault Contributor"/> &nbsp;&nbsp;
+
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="45" height="45" title="Quickdraw"/> &nbsp;&nbsp;
+
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="45" height="45" title="Pair Extraordinaire"/> &nbsp;&nbsp;
+
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="45" height="45" title="Pull Shark"/> &nbsp;&nbsp;
+
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="45" height="45" title="YOLO"/>
 </p>
+
+<img src="https://img.shields.io/badge/Cyber_Security-Specialist-red?style=for-the-badge&logo=shoppay&logoColor=white" />
+
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="45" height="45"/>

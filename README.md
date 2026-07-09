@@ -66,9 +66,10 @@ I'm currently focused on low-level Android hardware manipulation and building to
 
 ### [@] comms_link
 
-<div align="left">
-  <a href="https://x.com/Cipher_attacks"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://www.youtube.com/@cipher-attack"><img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-  <a href="https://et.linkedin.com/in/cipher-attack-93582433"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://t.me/cipher_attacks"><img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-</div>
+<p align="left">
+  <a href="https://x.com/Cipher_attacks" target="_blank"><img src="https://raw.githubusercontent.com/dentatandian/dentatandian/master/imgs/twitter.svg" width="35" height="35" alt="X"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <a href="https://www.youtube.com/@cipher-attack" target="_blank"><img src="https://raw.githubusercontent.com/dentatandian/dentatandian/master/imgs/youtube.svg" width="35" height="35" alt="YouTube"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <a href="https://et.linkedin.com/in/cipher-attack-93582433" target="_blank"><img src="https://raw.githubusercontent.com/dentatandian/dentatandian/master/imgs/linkedin.svg" width="35" height="35" alt="LinkedIn"/></a>
+</p>

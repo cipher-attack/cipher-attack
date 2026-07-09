@@ -54,9 +54,9 @@ I'm currently focused on low-level Android hardware manipulation and building to
 ### achievements
 
 <p align="left">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" width="45" height="45" title="Arctic Code Vault Contributor"/> &nbsp;&nbsp;
-
   <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="45" height="45" title="Quickdraw"/> &nbsp;&nbsp;
+
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="45" height="45" title="Starstruck"/> &nbsp;&nbsp;
 
   <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="45" height="45" title="Pair Extraordinaire"/> &nbsp;&nbsp;
 

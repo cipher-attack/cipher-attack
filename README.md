@@ -49,6 +49,11 @@ I'm currently focused on low-level Android hardware manipulation and building to
 
 <br/>
 
+![Header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=250&section=header&text=Cipher%20Attack&fontSize=70&animation=twinkling)
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=cipher-attack&theme=onedark&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>

@@ -49,11 +49,19 @@ I'm currently focused on low-level Android hardware manipulation and building to
 
 <br/>
 
-![Header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=250&section=header&text=Cipher%20Attack&fontSize=70&animation=twinkling)
+![Header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Cipher%20Attack&fontSize=50&animation=twinkling)
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=cipher-attack&theme=dark&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+###@chievements
 
-
+<p align="left">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="65" title="Pull Shark"/> &nbsp;&nbsp;
+  
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="65" title="Quickdraw"/> &nbsp;&nbsp;
+  
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yoda-default.png" width="65" title="Yoda Master"/> &nbsp;&nbsp;
+  
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="65" title="Pair Extraordinaire"/>
+</p>
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="45" height="45"/>

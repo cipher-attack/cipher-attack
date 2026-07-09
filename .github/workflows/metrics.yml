@@ -1,0 +1,74 @@
+name: Metrics
+on:
+  schedule:
+    - cron: "0 0 * * 0"
+  workflow_dispatch:
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Terminal with Languages
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.terminal.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: cipher-attack
+          template: terminal
+          base: header, metadata
+          plugin_languages: yes
+          plugin_languages_colors: github
+          plugin_languages_limit: 6
+          config_timezone: Africa/Addis_Ababa
+
+      - name: 3d calander
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.isocalendar.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: cipher-attack
+          template: classic
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+
+      - name: Lines of Code
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.lines.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: cipher-attack
+          template: classic
+          base: ""
+          plugin_lines: yes
+          plugin_lines_history_limit: 1
+          plugin_lines_repositories_limit: 4
+
+      - name: Hacker Worldmap
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.stargazers.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: cipher-attack
+          template: classic
+          base: ""
+          plugin_stargazers: yes
+          plugin_stargazers_worldmap: yes
+          plugin_stargazers_worldmap_sample: 100
+          plugin_stargazers_worldmap_token: ${{ secrets.GOOGLE_MAP_TOKEN }}
+
+      - name: Hacker Music Playlist
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.music.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: cipher-attack
+          template: classic
+          base: ""
+          plugin_music: yes
+          plugin_music_provider: lastfm
+          plugin_music_user: cipher_attack
+          plugin_music_mode: recent
+          plugin_music_limit: 4
+          plugin_music_token: ${{ secrets.LASTFM_API_KEY }}

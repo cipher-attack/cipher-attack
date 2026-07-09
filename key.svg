@@ -1,0 +1,24 @@
+<svg width="100%" viewBox="0 0 150 150" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .mark {
+        fill: none;
+        stroke: #111111;
+        stroke-width: 4;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+      @media (prefers-color-scheme: dark) {
+        .mark {
+          stroke: #FFFFFF;
+        }
+      }
+    </style>
+  </defs>
+
+  <path class="mark" d="M 112.5 37.5 L 52.5 37.5 L 22.5 75 L 52.5 112.5 L 112.5 112.5" />
+  <circle class="mark" cx="60" cy="75" r="15" />
+  <line class="mark" x1="75" y1="75" x2="127.5" y2="75" />
+  <line class="mark" x1="102" y1="75" x2="102" y2="93" />
+  <line class="mark" x1="117" y1="75" x2="117" y2="87" />
+</svg>

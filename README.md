@@ -49,17 +49,15 @@ I'm currently focused on low-level Android hardware manipulation and building to
 
 <br/>
 
-<div align="center">
-  <p>
-      <img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=3DDC84" />
-      <img src="https://img.shields.io/badge/Android-000000?style=flat-square&logo=android&logoColor=3DDC84" />
-      <img src="https://img.shields.io/badge/C++-000000?style=flat-square&logo=cplusplus&logoColor=3DDC84" />
-      <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=3DDC84" />
-      <img src="https://img.shields.io/badge/Bash-000000?style=flat-square&logo=gnu-bash&logoColor=3DDC84" />
-  </p>
-</div>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="android" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+</p>
 
-<hr style="border-color: #222;" />
 
 ### [@] comms_link
 

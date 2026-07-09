@@ -51,7 +51,8 @@ I'm currently focused on low-level Android hardware manipulation and building to
 
 ![Header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=250&section=header&text=Cipher%20Attack&fontSize=70&animation=twinkling)
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=cipher-attack&theme=onedark&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=cipher-attack&theme=dark&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 <p align="left">
@@ -67,9 +68,19 @@ I'm currently focused on low-level Android hardware manipulation and building to
 ### [@] comms_link
 
 <p align="left">
-  <a href="https://x.com/Cipher_attacks" target="_blank"><img src="https://raw.githubusercontent.com/dentatandian/dentatandian/master/imgs/twitter.svg" width="35" height="35" alt="X"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <a href="https://www.youtube.com/@cipher-attack" target="_blank"><img src="https://raw.githubusercontent.com/dentatandian/dentatandian/master/imgs/youtube.svg" width="35" height="35" alt="YouTube"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <a href="https://et.linkedin.com/in/cipher-attack-93582433" target="_blank"><img src="https://raw.githubusercontent.com/dentatandian/dentatandian/master/imgs/linkedin.svg" width="35" height="35" alt="LinkedIn"/></a>
+  <a href="https://x.com/Cipher_attacks" target="_blank">
+    <img src="https://api.iconify.design/fa6-brands:x-twitter.svg?color=white" alt="X" width="38" height="38"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.youtube.com/@cipher-attack" target="_blank">
+    <img src="https://api.iconify.design/logos:youtube-icon.svg" alt="YouTube" width="38" height="38"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://et.linkedin.com/in/cipher-attack-93582433" target="_blank">
+    <img src="https://api.iconify.design/logos:linkedin-icon.svg" alt="LinkedIn" width="38" height="38"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://t.me/cipher_attacks" target="_blank">
+    <img src="https://api.iconify.design/logos:telegram.svg" alt="Telegram" width="38" height="38"/>
+  </a>
 </p>

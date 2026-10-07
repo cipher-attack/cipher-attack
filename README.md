@@ -1,6 +1,6 @@
 <div align="left">
-  <img src="./dark.svg#gh-dark-mode-only" width="150" alt="cipher-attack">
-  <img src="./light.svg#gh-light-mode-only" width="150" alt="cipher-attack">
+  <img src="./dark.svg#gh-dark-mode-only" width="300" alt="cipher-attack">
+  <img src="./light.svg#gh-light-mode-only" width="300" alt="cipher-attack">
 
   <sub><code>ＣＩＰＨΞＲ</code></sub>
 </div>

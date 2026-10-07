@@ -49,22 +49,6 @@ I'm currently focused on low-level Android hardware manipulation and building to
 
 <br/>
 
-![Header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Cipher%20Attack&fontSize=50&animation=twinkling)
-
-### achievements
-
-<p align="left">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="45" height="45" title="Quickdraw"/> &nbsp;&nbsp;
-
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="45" height="45" title="Starstruck"/> &nbsp;&nbsp;
-
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="45" height="45" title="Pair Extraordinaire"/> &nbsp;&nbsp;
-
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="45" height="45" title="Pull Shark"/> &nbsp;&nbsp;
-
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="45" height="45" title="YOLO"/>
-</p>
-
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
